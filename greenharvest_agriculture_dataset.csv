@@ -1,0 +1,1001 @@
+FarmerID,FarmerName,Age,Region,Crop,CropGrade,QuantityKG,UnitPriceUGX,RevenueUGX,Market,SalesChannel,Month
+FARM1297,William Novak,55,Central,Groundnuts,B,-10,683.06,,Mbale,,Aug
+FARM6206,Douglas Price,Unknown,Northern,Beans,C,247.32,2188.82,541338.9624000001,Jinja,Local Market,Jul
+FARM4594,Adrian Taylor,67,Eastern,Cassava,B,716.91,1799.65,1290187.0815,Kampala,Export,Mar
+FARM5259,Kimberly Harris,,Eastern,Groundnuts,A,,2615.63,,Jinja,Cooperative Society,Dec
+FARM9510,Amber Wood,31,Western,Groundnuts,A,-10,2494.03,,Mbarara,Export,Aug
+FARM6418,Erin Harris,28,Central,Groundnuts,B,-10,1853.44,,Mbarara,Direct Sale,Mar
+FARM5681,Kristen Miller,Unknown,Western,Groundnuts,,-10,557.79,,Jinja,,Nov
+FARM3014,Gabriel Lewis,Unknown,Western,Matooke,A,503.98,1153.97,581577.8006000001,Arua,Local Market,Dec
+FARM4563,Justin Wheeler,,Eastern,Maize,,618.41,1725.9,1067313.819,Mbale,Export,Jun
+FARM6035,Carol Rosario,Unknown,Northern,Groundnuts,A,,1103.06,,Arua,Local Market,Oct
+FARM7732,Maria Moore,,Eastern,Cassava,C,,2956.0,,Mbarara,,Aug
+FARM7224,Carol Jones,58,Western,Beans,B,666.34,2577.9,1717757.8860000002,Mbale,Cooperative Society,Apr
+FARM7632,Craig Young,19,Western,Cassava,C,-10,1597.92,,Jinja,Local Market,Apr
+FARM8382,Christopher Lopez,,Central,Matooke,,,2804.77,,Mbale,Cooperative Society,Aug
+FARM7776,Walter Olson,Unknown,Western,Sorghum,,-10,2068.06,,Mbale,Local Market,Feb
+FARM4302,Ronald Joseph,47,Central,Matooke,,-10,2237.87,,Jinja,Cooperative Society,Feb
+FARM9955,Donna Li,Unknown,Western,Cassava,,,754.8,,Kampala,Local Market,Aug
+FARM2380,Jessica Howard,66,Eastern,Sorghum,,-10,2804.62,,Mbarara,,Jun
+FARM4813,Jack Richards,26,Central,Cassava,B,235.79,824.45,194397.0655,Mbale,Direct Sale,Feb
+FARM4737,Rachel Perry,,Western,Cassava,,-10,2879.51,,Kampala,Local Market,Aug
+FARM3818,Robert Martin,,Central,Rice,,-10,1960.01,,Arua,,May
+FARM2797,Brandon Duran,19,Eastern,Sorghum,,,955.88,,Mbale,Cooperative Society,Jun
+FARM3278,Larry Mcdonald,19,Eastern,Cassava,C,,2028.97,,Mbale,Direct Sale,Nov
+FARM2998,Samuel Parrish,,Northern,Maize,A,466.85,1910.78,892047.643,Kampala,,Mar
+FARM3451,Erin Ward,22,Northern,Cassava,C,158.75,721.61,114555.58750000001,Gulu,Local Market,Sep
+FARM2718,Sherry Gardner,50,Eastern,Matooke,C,,2775.74,,Arua,Export,Dec
+FARM9669,Leah Morgan,,Western,Sorghum,,,2192.52,,Kampala,Direct Sale,Dec
+FARM9002,Barbara Carter,26,Western,Rice,A,682.45,2064.41,1408856.6045,Arua,Local Market,Jan
+FARM2143,Brandon Lee,64,Central,Matooke,C,,1548.07,,Mbale,,Oct
+FARM9732,Gerald Hernandez,Unknown,Eastern,Groundnuts,C,279.98,2101.84,588473.1632000001,Arua,Local Market,Nov
+FARM3678,Brandi Powell,51,Central,Groundnuts,B,-10,2038.46,,Mbale,Direct Sale,May
+FARM6116,Luis Drake,,Central,Rice,A,,724.4,,Gulu,,Nov
+FARM1300,Christopher Holmes,Unknown,Northern,Rice,A,,1857.71,,Kampala,Export,Jan
+FARM9755,Andrew Lucero III,,Central,Matooke,C,872.87,2925.43,2553520.0841,Jinja,Export,Apr
+FARM1847,Mrs. Nancy Miller,Unknown,Northern,Matooke,A,-10,654.83,,Gulu,,Jun
+FARM4132,Margaret Chavez,32,Western,Rice,A,-10,2743.88,,Arua,,May
+FARM6022,Jason Wolfe,44,Northern,Sorghum,B,,1025.62,,Gulu,Cooperative Society,Dec
+FARM2144,Michael Foster,Unknown,Eastern,Matooke,C,,1886.75,,Mbarara,Cooperative Society,Sep
+FARM9373,Rhonda Smith,37,Central,Rice,A,,1777.33,,Mbarara,,Jun
+FARM6127,Sarah Moore,70,Central,Sorghum,A,655.16,2204.75,1444464.01,Arua,Cooperative Society,Oct
+FARM8187,Andrew Stark,Unknown,Central,Sorghum,C,308.86,1444.15,446040.16900000005,Arua,Local Market,Apr
+FARM2854,Brittany Rowe,28,Eastern,Cassava,B,914.0,1440.26,1316397.64,Mbale,,Oct
+FARM2783,Michael Leonard,Unknown,Northern,Cassava,B,,1580.16,,Kampala,,Nov
+FARM1597,Marisa Medina,Unknown,Western,Rice,A,-10,2240.01,,Gulu,Direct Sale,Jan
+FARM3250,Lisa Malone,Unknown,Eastern,Maize,B,,1762.92,,Gulu,Direct Sale,Feb
+FARM5143,Jon Hernandez,,Central,Sorghum,,142.55,2211.28,315217.96400000004,Gulu,Cooperative Society,May
+FARM1216,Michael Savage,Unknown,Western,Matooke,C,-10,651.16,,Mbale,,Apr
+FARM2740,Michael Graves,47,Eastern,Groundnuts,,,1203.87,,Jinja,Cooperative Society,Nov
+FARM3646,Joshua Scott,20,Central,Rice,,,2852.09,,Kampala,Cooperative Society,Aug
+FARM1933,Thomas Bullock,Unknown,Central,Matooke,A,543.33,1402.8,762183.324,Kampala,Direct Sale,Oct
+FARM3605,Kenneth Dean,,Western,Maize,,469.43,2970.67,1394521.6181,Jinja,Export,Nov
+FARM7963,Charles Allen,,Western,Cassava,C,185.13,1179.32,218327.51159999997,Arua,,Apr
+FARM2618,Mark Jefferson,Unknown,Western,Groundnuts,,-10,524.26,,Arua,Direct Sale,Aug
+FARM4942,Christopher Stanley,41,Eastern,Groundnuts,,-10,762.57,,Kampala,Cooperative Society,Oct
+FARM2160,Douglas Simmons,22,Western,Beans,C,,1654.75,,Arua,Direct Sale,Jul
+FARM3552,Jaime Bell,51,Eastern,Groundnuts,A,,1344.75,,Jinja,Local Market,Dec
+FARM6525,Anthony Jackson,Unknown,Northern,Rice,C,647.08,1119.89,724658.4212000001,Mbarara,Cooperative Society,Jul
+FARM1390,Calvin Long,Unknown,Central,Maize,B,,877.92,,Arua,,Feb
+FARM5293,John Lewis,50,Western,Sorghum,C,,2957.4,,Mbale,Local Market,May
+FARM6044,Joshua Mcintosh,,Western,Maize,,189.36,1106.41,209509.79760000002,Kampala,Export,Nov
+FARM2704,Debra Payne,Unknown,Central,Maize,,-10,969.64,,Jinja,Local Market,Feb
+FARM3107,Jason Miranda,Unknown,Central,Maize,,804.3,2044.36,1644278.748,Mbarara,Local Market,Mar
+FARM6611,Logan Rowe,36,Northern,Rice,A,648.52,2854.37,1851116.0324,Arua,Local Market,Apr
+FARM8680,Katie May,,Eastern,Groundnuts,B,607.92,1756.61,1067878.3512,Jinja,Cooperative Society,May
+FARM9312,Antonio Brown,,Eastern,Rice,B,-10,2064.4,,Kampala,Cooperative Society,Dec
+FARM4373,Matthew Weaver,Unknown,Central,Rice,B,-10,2774.49,,Mbarara,Cooperative Society,Apr
+FARM7363,Brian Martin,,Northern,Sorghum,C,,2200.19,,Mbarara,Export,Sep
+FARM8824,Dustin Bryant,,Northern,Matooke,B,-10,2282.33,,Mbarara,Direct Sale,Mar
+FARM7210,Anthony Lutz,,Northern,Cassava,A,,1812.64,,Mbarara,Cooperative Society,Jun
+FARM1386,Erica Mckenzie,Unknown,Eastern,Matooke,A,-10,822.87,,Mbarara,,Nov
+FARM7092,Mary Lee,,Northern,Cassava,B,-10,1894.03,,Mbarara,Local Market,Jul
+FARM7584,Charlotte Campbell,Unknown,Central,Sorghum,C,,553.0,,Arua,Export,Aug
+FARM2183,Angela Webster,69,Eastern,Beans,C,837.73,2788.7,2336177.651,Gulu,Cooperative Society,Jul
+FARM6833,Katherine Davis,18,Western,Cassava,A,885.91,2108.46,1867905.7985999999,Jinja,Export,Oct
+FARM1506,Jason Watson,,Northern,Beans,,-10,782.97,,Jinja,Export,Feb
+FARM8829,Lisa Robinson,23,Eastern,Rice,A,-10,2723.54,,Mbarara,Local Market,Mar
+FARM7190,Whitney Keith,32,Western,Beans,A,-10,765.72,,Gulu,,Apr
+FARM1225,Autumn Gregory,68,Northern,Sorghum,A,-10,2887.95,,Mbale,,Feb
+FARM8363,Kenneth King,Unknown,Northern,Sorghum,C,-10,1250.33,,Kampala,Cooperative Society,Jun
+FARM8156,Jesse Harris,68,Northern,Groundnuts,B,782.45,1857.0,1453009.6500000001,Gulu,Direct Sale,Jul
+FARM4064,Tammy Jones,Unknown,Eastern,Matooke,C,-10,1068.52,,Kampala,Export,Apr
+FARM2631,Andrew Roberts,,Northern,Sorghum,B,-10,1848.44,,Arua,Local Market,Jun
+FARM4998,Jeffery Hill,,Eastern,Matooke,B,954.55,2147.05,2049466.5775000001,Mbale,Cooperative Society,Mar
+FARM4231,Sandra Acosta,64,Western,Maize,B,,709.78,,Kampala,Cooperative Society,Nov
+FARM8429,Mary Schmidt,Unknown,Northern,Cassava,,,2645.49,,Mbale,Export,Sep
+FARM4906,Eric Lee,30,Western,Sorghum,C,150.98,1055.58,159371.46839999998,Gulu,Local Market,Jan
+FARM5751,Charles Henderson,40,Western,Maize,C,295.27,918.28,271140.5356,Arua,,Nov
+FARM8162,Denise Thornton,,Eastern,Groundnuts,,-10,2820.22,,Mbale,Cooperative Society,Feb
+FARM2376,Robert Barton,,Northern,Maize,B,-10,514.73,,Gulu,Local Market,Jul
+FARM1751,Alexander Kim,38,Western,Beans,B,828.36,1953.82,1618466.3352,Arua,Cooperative Society,Aug
+FARM5742,Amanda Cabrera,,Northern,Rice,C,611.65,1841.76,1126512.504,Jinja,Direct Sale,Feb
+FARM6906,Deborah Johnson,,Central,Sorghum,C,-10,2791.54,,Gulu,Export,Apr
+FARM7043,Christina Zuniga,,Northern,Maize,B,,1467.3,,Mbale,Export,Mar
+FARM6480,Mark Frazier,,Northern,Matooke,C,,2257.22,,Arua,Direct Sale,Oct
+FARM1382,Cindy Riley,Unknown,Northern,Cassava,A,,541.61,,Mbale,,Feb
+FARM8118,Michael Davis,29,Eastern,Groundnuts,,112.68,521.13,58720.928400000004,Mbale,Export,May
+FARM3561,Miguel Nelson,Unknown,Northern,Maize,B,825.0,1522.86,1256359.5,Arua,Direct Sale,Jan
+FARM6486,Russell Freeman,30,Northern,Matooke,C,,1291.57,,Mbale,Export,Aug
+FARM7272,Matthew Thomas,,Western,Sorghum,A,-10,1195.02,,Arua,Direct Sale,Jun
+FARM1071,Kelly Cummings,,Northern,Maize,C,-10,2380.61,,Arua,,Jan
+FARM1073,Haley Martinez,Unknown,Northern,Maize,,,1090.66,,Mbarara,Direct Sale,Sep
+FARM2443,Mr. Paul Watson,,Western,Rice,C,519.93,2610.97,1357521.6320999998,Gulu,Local Market,May
+FARM8243,Kenneth Greene,Unknown,Eastern,Matooke,,-10,2256.7,,Arua,Direct Sale,Jul
+FARM1864,Heather Long DDS,,Western,Sorghum,C,,1919.53,,Kampala,Export,Dec
+FARM7182,Aaron Fisher,Unknown,Central,Matooke,,,949.82,,Arua,,Aug
+FARM8104,Amy Martin,26,Western,Sorghum,A,-10,2788.04,,Mbarara,Export,Jan
+FARM7175,Karen Heath,49,Eastern,Beans,A,-10,571.36,,Mbarara,Local Market,Feb
+FARM2066,Sarah Doyle,,Northern,Rice,,,2730.14,,Kampala,Cooperative Society,May
+FARM7154,Megan Cooper,38,Central,Maize,A,175.07,1821.89,318958.2823,Arua,Direct Sale,Nov
+FARM6981,Tammy Reyes,Unknown,Eastern,Beans,C,-10,1012.18,,Mbale,Cooperative Society,Jul
+FARM9521,Latasha Archer,45,Central,Matooke,,502.56,649.79,326558.46239999996,Gulu,,Nov
+FARM4912,Zachary Burgess,Unknown,Northern,Maize,B,217.74,1845.35,401806.509,Mbale,Cooperative Society,Apr
+FARM3973,Melinda Phillips,37,Northern,Cassava,B,499.82,1493.3,746381.206,Gulu,Cooperative Society,Jan
+FARM3679,Scott Weeks,28,Central,Rice,,-10,1909.33,,Mbale,,Sep
+FARM6024,Taylor Shepard,50,Western,Groundnuts,B,-10,763.65,,Arua,Direct Sale,Jun
+FARM4917,Timothy Miller,,Western,Beans,B,,763.91,,Gulu,Direct Sale,Apr
+FARM2444,Jacob Jordan,Unknown,Northern,Matooke,A,-10,2266.49,,Mbale,Cooperative Society,Jun
+FARM4103,Alicia Gomez,Unknown,Eastern,Cassava,C,-10,2609.77,,Arua,,Mar
+FARM1825,Robert Tapia,,Central,Matooke,B,,1131.32,,Mbarara,Local Market,Jun
+FARM6589,Kylie Solomon,,Central,Sorghum,A,862.81,2892.1,2495332.801,Jinja,Cooperative Society,Jun
+FARM5035,Marie Mayer,Unknown,Eastern,Rice,C,666.4,1377.08,917686.112,Mbale,Local Market,Dec
+FARM5449,Cheryl Johnson,Unknown,Central,Beans,A,-10,1211.53,,Arua,,May
+FARM6222,Shawn Fox,Unknown,Western,Matooke,A,,1801.25,,Gulu,Local Market,Aug
+FARM6916,Jessica Wheeler,Unknown,Western,Cassava,B,-10,689.88,,Kampala,Direct Sale,Oct
+FARM7432,Erin Pratt,Unknown,Eastern,Rice,C,,1247.68,,Gulu,Local Market,Feb
+FARM5198,Kelly Park,,Western,Maize,B,,1471.35,,Arua,Direct Sale,May
+FARM6759,Ryan Johnson,22,Western,Rice,B,672.02,2377.57,1597774.5914,Gulu,,Oct
+FARM5873,Vanessa Thomas,,Northern,Sorghum,C,-10,1124.22,,Gulu,Local Market,Jan
+FARM5585,Joshua White,,Northern,Beans,C,537.26,1702.01,914421.8926,Arua,Local Market,Mar
+FARM8492,Christopher Lee,,Northern,Beans,C,650.24,1052.75,684540.16,Jinja,Local Market,Dec
+FARM2982,Joshua Hughes,,Central,Matooke,B,-10,876.78,,Mbale,,Sep
+FARM5394,Sarah Patterson,25,Northern,Maize,C,-10,699.54,,Mbarara,Direct Sale,Feb
+FARM8145,Madison Duffy,,Northern,Sorghum,,621.26,2735.19,1699264.1394,Gulu,Export,Apr
+FARM7374,Eric Mcfarland,Unknown,Western,Maize,,475.86,2898.25,1379161.245,Mbarara,Export,Mar
+FARM9855,Melanie Hull,,Eastern,Matooke,B,360.92,1575.37,568582.5403999999,Mbale,Cooperative Society,Sep
+FARM9926,Kayla Olsen,,Central,Maize,,,703.49,,Mbale,Export,May
+FARM3613,Allen Cunningham,54,Central,Beans,A,-10,977.25,,Mbale,Direct Sale,Sep
+FARM8585,Lindsay Sullivan,25,Central,Beans,,-10,2402.75,,Arua,Direct Sale,Jul
+FARM7976,Robert Silva,,Central,Matooke,B,-10,2340.36,,Kampala,Cooperative Society,Nov
+FARM2389,Reginald Wright,,Eastern,Sorghum,B,782.73,518.9,406158.597,Mbale,Cooperative Society,Oct
+FARM5315,Daniel Allen,,Western,Matooke,C,,2494.06,,Mbale,Direct Sale,Nov
+FARM2638,Joseph Smith,55,Eastern,Beans,B,-10,1874.78,,Mbarara,Export,Jan
+FARM4246,Cynthia Watson,,Eastern,Maize,B,,861.08,,Mbale,Direct Sale,May
+FARM9187,Sara Jackson,36,Central,Beans,C,,2240.6,,Gulu,Direct Sale,Apr
+FARM8076,Rebecca Riley,,Northern,Maize,A,889.09,503.62,447763.50580000004,Kampala,,Nov
+FARM3158,Kevin Perez,53,Western,Rice,C,360.42,2273.64,819465.3288,Mbarara,Local Market,Jul
+FARM5925,Jennifer Mckenzie,,Northern,Rice,A,,1341.56,,Kampala,,Aug
+FARM1338,Julie Jacobson,Unknown,Central,Maize,B,-10,1849.42,,Mbale,,May
+FARM5094,Stephen Anderson,,Eastern,Matooke,,122.4,2747.91,336344.184,Arua,Direct Sale,Dec
+FARM9677,Todd Mccormick,66,Eastern,Rice,A,,2788.33,,Mbarara,Local Market,Dec
+FARM9260,Sandra Harris,33,Eastern,Sorghum,C,226.07,1505.64,340380.0348,Gulu,Export,Nov
+FARM1621,Rachael Curry,48,Western,Sorghum,C,994.15,717.73,713531.2795,Arua,,Dec
+FARM6540,Keith Sparks,,Northern,Cassava,C,740.87,841.07,623123.5309,Kampala,Cooperative Society,Sep
+FARM5957,Christopher Thomas,,Eastern,Beans,A,-10,682.5,,Arua,Export,Aug
+FARM7174,Ashley Cooley,Unknown,Western,Groundnuts,C,500.58,2931.06,1467230.0148,Arua,Direct Sale,Feb
+FARM1316,John Kennedy,Unknown,Northern,Sorghum,B,,709.05,,Kampala,Local Market,Jun
+FARM9920,Larry Hudson,Unknown,Northern,Rice,C,715.68,1513.63,1083274.7184,Gulu,Cooperative Society,Apr
+FARM3396,Kim Snyder,Unknown,Western,Matooke,A,-10,2676.15,,Kampala,Local Market,Jan
+FARM5181,Natalie Bates,,Northern,Rice,,,855.35,,Gulu,,Oct
+FARM5890,Aaron Rodriguez,58,Western,Sorghum,B,,2519.92,,Mbale,,Feb
+FARM7708,Kimberly Byrd,Unknown,Central,Rice,A,-10,2610.5,,Kampala,Direct Sale,Jan
+FARM4845,Luis Woods,Unknown,Eastern,Rice,,141.6,869.16,123073.056,Mbarara,Export,Nov
+FARM7414,Angela Miller,Unknown,Eastern,Beans,,347.45,1585.3,550812.485,Kampala,,Apr
+FARM7845,Jill Thomas,,Central,Sorghum,A,184.96,2275.58,420891.2768,Mbarara,Local Market,Dec
+FARM5125,Emily White,33,Western,Sorghum,C,,1243.38,,Mbale,Cooperative Society,Nov
+FARM3649,James Hill,46,Northern,Maize,B,856.4,2214.54,1896532.0559999999,Mbale,,May
+FARM4529,Emily Andrews,Unknown,Central,Groundnuts,,-10,1501.77,,Kampala,Cooperative Society,Apr
+FARM3590,Deborah Marsh,Unknown,Central,Matooke,B,,2334.14,,Jinja,Cooperative Society,May
+FARM2941,David Lopez,,Northern,Cassava,B,,1649.21,,Gulu,,Jul
+FARM9467,Martin Schwartz,70,Central,Maize,B,-10,2107.71,,Kampala,Local Market,Aug
+FARM2207,Donna Thomas,,Western,Cassava,B,,1279.92,,Gulu,Export,Feb
+FARM2107,Gary Brown,69,Western,Groundnuts,B,,2739.07,,Arua,,Jul
+FARM3817,Jessica Hill,Unknown,Northern,Beans,C,775.85,767.53,595488.1505,Jinja,,Mar
+FARM1031,Shawn Hodges,Unknown,Western,Matooke,C,-10,2832.78,,Arua,Cooperative Society,Jan
+FARM2423,Jessica Evans,,Western,Beans,,,2608.97,,Arua,,May
+FARM2652,Gary Franklin,,Western,Cassava,B,926.34,1299.88,1204130.8392,Gulu,Direct Sale,Jul
+FARM9920,Shawn Davis,,Central,Cassava,C,-10,1979.66,,Jinja,Export,Dec
+FARM1362,Christina Brewer,,Northern,Groundnuts,C,705.28,679.92,479533.9775999999,Arua,Export,Jan
+FARM4042,Andrew Harrington,,Central,Cassava,C,294.6,853.46,251429.31600000002,Mbale,Cooperative Society,May
+FARM3364,Jeremy Foster,39,Western,Matooke,B,577.45,1851.24,1068998.5380000002,Mbarara,Direct Sale,Jul
+FARM6842,Jeffrey Garcia,61,Northern,Sorghum,C,,657.73,,Kampala,Local Market,Feb
+FARM7669,Louis Mcgrath,,Eastern,Sorghum,A,-10,908.44,,Mbarara,Local Market,Feb
+FARM1933,Carlos Allen,,Western,Cassava,,-10,2095.1,,Mbarara,Export,Oct
+FARM1288,Andrea Barker,Unknown,Western,Sorghum,,,1511.29,,Arua,,Feb
+FARM8629,Nathaniel Daniels,Unknown,Northern,Matooke,,-10,1018.37,,Gulu,Export,Nov
+FARM5410,Michelle Williams,,Western,Groundnuts,A,330.66,2586.9,855384.354,Gulu,Export,May
+FARM4639,Victoria Young,44,Eastern,Cassava,B,457.07,2642.44,1207780.0508,Mbarara,Direct Sale,Aug
+FARM9565,Aaron Gray,,Northern,Cassava,B,-10,2383.69,,Gulu,Cooperative Society,Jan
+FARM8442,Melissa Vasquez,,Central,Beans,A,,1454.77,,Mbarara,Cooperative Society,Aug
+FARM2624,Thomas Robinson,Unknown,Central,Sorghum,,,1942.3,,Arua,Local Market,Mar
+FARM4122,Elaine Stevens,56,Western,Sorghum,C,-10,1926.31,,Kampala,Export,Aug
+FARM1069,Connie Smith,64,Eastern,Rice,A,,1045.98,,Jinja,,Oct
+FARM7750,Kathleen Mack,Unknown,Central,Beans,A,-10,694.47,,Mbale,Local Market,Jun
+FARM4606,Richard Rivera,,Central,Matooke,B,,2878.75,,Arua,Local Market,Nov
+FARM3281,April Price,,Central,Groundnuts,A,-10,1132.02,,Jinja,Local Market,Feb
+FARM4546,Elizabeth Thomas,,Eastern,Maize,C,,2463.62,,Mbale,,Jan
+FARM1091,William Wilson,64,Northern,Rice,,-10,1394.54,,Mbale,Direct Sale,Feb
+FARM2929,James Allen,34,Northern,Groundnuts,C,-10,1576.58,,Kampala,Direct Sale,May
+FARM6208,Nicholas Burnett,30,Northern,Maize,A,-10,1860.04,,Gulu,Local Market,Sep
+FARM2207,Mrs. Susan Hill,,Central,Cassava,,-10,2511.16,,Mbarara,Export,Jun
+FARM2255,Sandra Ortiz,Unknown,Northern,Rice,A,887.03,1220.19,1082345.1357,Mbarara,Local Market,Feb
+FARM4606,Sheila Bennett,35,Western,Cassava,C,-10,2309.0,,Mbale,,Sep
+FARM7766,Robert Garcia,Unknown,Central,Matooke,A,-10,2253.77,,Mbale,Export,Jun
+FARM7512,John Sullivan,,Western,Matooke,B,617.26,2319.18,1431537.0468,Kampala,Cooperative Society,Jul
+FARM3173,Daniel Taylor,,Eastern,Beans,A,689.63,2648.68,1826609.1883999999,Arua,Cooperative Society,May
+FARM3774,Elizabeth Brown,,Western,Sorghum,A,300.93,501.29,150853.1997,Kampala,Export,Sep
+FARM4625,Stephanie Peterson,Unknown,Central,Sorghum,,,657.26,,Kampala,Cooperative Society,Jun
+FARM5552,Jason Keller,Unknown,Western,Cassava,A,,1156.8,,Mbale,Local Market,Apr
+FARM3732,Robert White,Unknown,Central,Sorghum,,-10,2062.4,,Mbale,Direct Sale,Jul
+FARM3585,Jennifer Johnson,,Northern,Matooke,A,517.48,1632.2,844630.856,Jinja,Export,Jul
+FARM6249,John Ruiz,,Northern,Beans,A,386.7,1697.78,656531.526,Mbale,Cooperative Society,Jul
+FARM5725,John Johnson,Unknown,Northern,Cassava,C,918.84,585.42,537907.3128,Arua,,Oct
+FARM6393,Maria Merritt MD,31,Eastern,Rice,B,,1785.96,,Mbarara,Cooperative Society,Feb
+FARM7946,Cheryl Obrien,38,Western,Beans,C,,988.14,,Gulu,Export,Jun
+FARM2089,Joshua Stone,30,Western,Rice,,,1666.62,,Mbale,Direct Sale,Oct
+FARM3167,Chelsey Livingston,Unknown,Northern,Beans,A,,1252.61,,Jinja,,Aug
+FARM8767,George Garrett,66,Western,Maize,B,-10,872.74,,Arua,Cooperative Society,Mar
+FARM4335,Casey Caldwell,Unknown,Eastern,Rice,C,393.44,756.68,297708.17919999996,Kampala,,Jul
+FARM1340,Mrs. Karen Bowen,Unknown,Western,Matooke,A,,1214.81,,Mbale,Local Market,Oct
+FARM3927,Kevin Yoder,,Western,Groundnuts,C,341.83,976.07,333650.0081,Mbarara,Cooperative Society,Apr
+FARM9804,Jean Dean,,Eastern,Maize,C,-10,1145.28,,Gulu,,Jul
+FARM2094,James Barnett,Unknown,Northern,Matooke,C,443.94,2349.93,1043227.9241999999,Gulu,Cooperative Society,Feb
+FARM9908,Daniel Miller,54,Eastern,Maize,B,-10,1716.24,,Kampala,Local Market,Mar
+FARM1326,Gabrielle Martinez,,Central,Cassava,C,-10,580.19,,Jinja,Export,Sep
+FARM9477,William Warren,,Eastern,Groundnuts,,-10,2790.7,,Arua,Export,Jan
+FARM5117,Miss Debbie Davidson,53,Northern,Matooke,B,247.66,2604.11,644933.8826,Mbarara,,Aug
+FARM4614,Tammy Johnson,,Western,Matooke,A,-10,1862.84,,Kampala,,Oct
+FARM1096,Pamela Welch,Unknown,Northern,Rice,A,309.64,1942.54,601488.0856,Mbale,,Jul
+FARM2493,Abigail Gibson,Unknown,Eastern,Matooke,C,,2488.77,,Arua,,May
+FARM8656,Michael Evans,Unknown,Central,Rice,B,,2249.66,,Kampala,Local Market,Feb
+FARM6950,Barbara Castillo,,Western,Rice,,-10,2325.0,,Jinja,Local Market,Feb
+FARM5633,Melissa White,Unknown,Western,Beans,A,,1298.28,,Arua,Export,Dec
+FARM3863,Roy Davenport,Unknown,Northern,Matooke,A,499.17,1422.26,709949.5242,Arua,Local Market,Aug
+FARM3985,Brandon Gordon,,Western,Cassava,A,,700.4,,Mbarara,Export,Aug
+FARM8324,Lori Patel,66,Central,Cassava,B,-10,2041.17,,Mbarara,Direct Sale,Feb
+FARM4596,Riley Warner,,Western,Sorghum,,,1325.62,,Mbarara,Export,Jun
+FARM5374,Brad Hodges,Unknown,Central,Maize,,,2898.62,,Kampala,Local Market,Jan
+FARM6318,Colin Thomas,,Western,Cassava,C,-10,1630.53,,Mbarara,,Sep
+FARM7890,Jessica Carter,,Western,Cassava,B,481.47,1591.74,766375.0578000001,Jinja,Cooperative Society,Dec
+FARM2107,Justin Lynch,45,Northern,Matooke,C,-10,635.63,,Jinja,,Sep
+FARM2663,Paul Anderson,Unknown,Northern,Beans,,,2058.93,,Mbarara,Cooperative Society,Nov
+FARM6680,Emily Duncan,43,Central,Beans,C,,500.21,,Kampala,Cooperative Society,Dec
+FARM4559,Susan Garcia,Unknown,Northern,Matooke,A,,2687.99,,Arua,Direct Sale,Dec
+FARM3172,Edwin Rodriguez,,Eastern,Rice,A,,1766.27,,Jinja,Direct Sale,Nov
+FARM9475,Jennifer Harrison,Unknown,Central,Matooke,C,-10,834.45,,Gulu,Direct Sale,Oct
+FARM5624,Perry Gill,,Western,Groundnuts,,-10,2729.73,,Mbarara,,Dec
+FARM1395,David Stone,,Central,Maize,B,-10,2073.43,,Arua,Local Market,Oct
+FARM7897,Jennifer Miller,28,Northern,Rice,B,-10,947.25,,Arua,Direct Sale,Apr
+FARM2566,Julie Johnson,Unknown,Western,Rice,C,389.24,1685.84,656196.3616,Mbale,Cooperative Society,Oct
+FARM4099,Melissa Williams,Unknown,Eastern,Rice,,-10,2247.07,,Arua,Local Market,Apr
+FARM9476,Marissa Griffin,Unknown,Central,Cassava,A,860.37,1234.5,1062126.765,Arua,Export,Sep
+FARM2455,Michelle Steele,,Eastern,Matooke,B,598.19,2236.55,1337881.8445000001,Gulu,Local Market,Oct
+FARM3484,Justin Robbins,35,Eastern,Cassava,B,983.91,2497.19,2457010.2129,Mbale,Export,Jul
+FARM7271,Courtney Hill,Unknown,Eastern,Rice,,-10,908.43,,Arua,Direct Sale,Apr
+FARM9125,Charles Collins,Unknown,Central,Sorghum,C,136.02,2532.58,344481.5316,Mbale,Cooperative Society,Feb
+FARM3629,David Curry,70,Eastern,Sorghum,B,-10,2393.42,,Kampala,Cooperative Society,Nov
+FARM7052,Sarah Nelson,Unknown,Western,Groundnuts,B,,2649.39,,Kampala,Local Market,May
+FARM1122,Colleen Carlson,,Northern,Rice,B,,556.41,,Kampala,Direct Sale,Jan
+FARM3499,Erin Parker,36,Northern,Cassava,,-10,1147.37,,Jinja,Local Market,Mar
+FARM5795,Lisa Hill,38,Central,Maize,B,136.36,1964.73,267910.58280000003,Jinja,Direct Sale,Nov
+FARM3405,Robert Hunt,,Western,Rice,,-10,1374.92,,Kampala,Cooperative Society,May
+FARM6221,Sharon Burch,Unknown,Central,Maize,C,,1694.03,,Mbale,Direct Sale,Sep
+FARM5784,Christian Hicks,Unknown,Central,Sorghum,B,838.56,1577.88,1323147.0528,Gulu,Direct Sale,Jan
+FARM3800,Brandon Padilla,,Northern,Rice,B,,1172.42,,Arua,Local Market,Aug
+FARM2683,Jenny Deleon,,Northern,Sorghum,B,,2671.96,,Arua,Export,Mar
+FARM3668,Susan Johnson,Unknown,Northern,Groundnuts,C,-10,2149.85,,Arua,Direct Sale,Nov
+FARM7310,Monique Chen,,Western,Cassava,B,510.48,1765.25,901124.8200000001,Arua,Cooperative Society,Aug
+FARM6563,Nathan Mckee,56,Eastern,Beans,,-10,1174.39,,Mbale,Export,Aug
+FARM8511,Gabrielle Santiago,29,Northern,Rice,A,,1467.19,,Gulu,Local Market,Jan
+FARM6955,Charles Bell,Unknown,Northern,Matooke,B,,1833.7,,Kampala,Direct Sale,Nov
+FARM4889,Christopher Alvarez,Unknown,Eastern,Groundnuts,C,-10,976.05,,Jinja,Export,Dec
+FARM9372,Laura Cobb,,Northern,Rice,A,,636.07,,Kampala,,Jul
+FARM7890,Kenneth Cooper Jr.,,Northern,Groundnuts,A,703.93,2321.6,1634243.8879999998,Mbarara,Export,Dec
+FARM7051,Oscar Blair,Unknown,Eastern,Groundnuts,B,-10,2023.48,,Arua,Direct Sale,Aug
+FARM8314,Jeffery Bernard DDS,Unknown,Western,Maize,,,1585.04,,Kampala,Local Market,Jun
+FARM6808,Adam Wallace,37,Eastern,Sorghum,,764.48,1448.71,1107509.8208,Gulu,Direct Sale,Jan
+FARM8919,Jessica Dixon,Unknown,Northern,Sorghum,A,603.9,1202.32,726081.048,Mbarara,Local Market,Jan
+FARM4608,Jeffrey Nguyen,,Western,Sorghum,B,621.1,1943.03,1206815.933,Jinja,Export,Nov
+FARM5387,Annette Richard,Unknown,Central,Matooke,,595.86,1546.58,921545.1588,Mbale,Direct Sale,Aug
+FARM2385,Alexandra Conner,,Western,Sorghum,,,2396.6,,Jinja,,May
+FARM9364,Kelly Garcia,,Western,Rice,B,183.53,2461.1,451685.68299999996,Kampala,Export,Aug
+FARM4479,Danielle Browning,,Western,Beans,C,-10,2240.61,,Gulu,Export,Jul
+FARM8078,Rebecca Nichols,Unknown,Eastern,Cassava,B,-10,721.99,,Mbarara,Local Market,Apr
+FARM7128,Carol Brown,47,Western,Cassava,C,468.53,1196.31,560507.1242999999,Kampala,Direct Sale,Feb
+FARM1492,Gina Yang,21,Northern,Maize,C,166.69,2994.32,499123.2008,Mbarara,Cooperative Society,Aug
+FARM6912,Mr. Andrew Robbins Jr.,,Western,Beans,A,-10,1589.59,,Mbale,Cooperative Society,Dec
+FARM6438,Matthew Vega,59,Western,Maize,C,,2241.14,,Mbale,Direct Sale,Oct
+FARM5456,William Bush,Unknown,Northern,Beans,C,782.23,950.65,743626.9495,Mbale,Local Market,May
+FARM8209,Kristina Rojas,Unknown,Northern,Maize,C,-10,1950.91,,Arua,Direct Sale,Oct
+FARM5525,Karen Lopez,,Northern,Sorghum,,268.66,1835.19,493042.14540000004,Arua,Direct Sale,Nov
+FARM4755,Steven Daniels,67,Western,Matooke,B,-10,1628.03,,Gulu,,Feb
+FARM3825,Melissa Henry,,Western,Matooke,B,838.95,2204.68,1849616.2859999998,Kampala,Local Market,Jun
+FARM6511,Erin Kaufman,Unknown,Northern,Beans,A,295.55,1614.14,477059.07700000005,Gulu,Cooperative Society,Aug
+FARM3751,Isaac Hernandez,Unknown,Eastern,Matooke,,,2936.67,,Gulu,Local Market,Jan
+FARM8739,Gabriel Costa,49,Central,Sorghum,,,2511.51,,Mbarara,Cooperative Society,Nov
+FARM2555,Crystal Michael,Unknown,Eastern,Rice,C,447.82,2316.41,1037334.7261999999,Kampala,Local Market,Oct
+FARM3349,David Miller,,Central,Maize,B,-10,2936.48,,Mbarara,Export,Mar
+FARM6415,Jerry Walker,Unknown,Eastern,Maize,,-10,1916.15,,Mbarara,,Jun
+FARM5326,Carl Adams,,Eastern,Sorghum,C,,1774.61,,Jinja,Export,Jun
+FARM2063,Valerie Gutierrez,Unknown,Central,Sorghum,C,789.17,1243.25,981135.6024999999,Jinja,,Apr
+FARM4291,Trevor Pratt,,Eastern,Matooke,A,-10,2935.1,,Mbale,Direct Sale,Jul
+FARM8069,Katie Heath,Unknown,Western,Groundnuts,,-10,653.29,,Gulu,Direct Sale,Jan
+FARM3335,Nicholas Hernandez,32,Central,Groundnuts,C,287.39,2373.26,682051.1914,Mbale,Cooperative Society,Jun
+FARM8572,Keith Powell,Unknown,Eastern,Rice,C,,2677.16,,Arua,Local Market,Apr
+FARM9900,Joseph Lutz,Unknown,Western,Cassava,,762.41,2819.42,2149554.0022,Mbarara,Cooperative Society,Jan
+FARM4455,Crystal Riley,63,Northern,Cassava,,540.38,2496.49,1349053.2662,Jinja,Export,Aug
+FARM8515,Jennifer Reeves,45,Central,Groundnuts,C,783.76,2510.08,1967300.3007999999,Mbarara,Export,Dec
+FARM4657,James Morton,Unknown,Central,Matooke,A,-10,756.21,,Mbarara,Export,Jan
+FARM5289,Derek Glenn,Unknown,Northern,Beans,,,1598.23,,Jinja,Direct Sale,May
+FARM4791,Justin Pratt,,Eastern,Maize,,753.58,1885.58,1420935.3764,Kampala,Direct Sale,May
+FARM4835,Austin Martin,69,Central,Cassava,B,152.61,2982.06,455092.1766,Kampala,Direct Sale,Jul
+FARM9463,Jenna Norris,40,Eastern,Beans,,-10,1913.84,,Mbarara,Direct Sale,Feb
+FARM3810,Charles Baker,Unknown,Central,Cassava,B,-10,1503.98,,Mbale,Local Market,Sep
+FARM5963,Peter Thomas,Unknown,Northern,Maize,A,-10,2821.55,,Jinja,,Feb
+FARM7898,Shawn Mccoy,26,Eastern,Matooke,,-10,502.21,,Gulu,Local Market,Sep
+FARM1303,Connie Torres,,Northern,Matooke,B,,1042.75,,Mbale,Direct Sale,Nov
+FARM4328,Lisa Tran,,Northern,Matooke,C,-10,665.41,,Kampala,Local Market,Jul
+FARM7519,John Johnson,67,Western,Rice,A,-10,2928.66,,Mbale,Direct Sale,Apr
+FARM2991,Danny Mitchell,,Western,Rice,C,,1708.12,,Mbale,Export,Jun
+FARM4071,Christina Scott,Unknown,Northern,Maize,A,-10,1953.47,,Jinja,Direct Sale,Nov
+FARM3721,Sarah Doyle,,Eastern,Maize,,,2873.07,,Gulu,Local Market,Jan
+FARM1326,Brian Mendoza,,Eastern,Matooke,C,,2314.69,,Gulu,,Apr
+FARM5464,Amber Johnson,Unknown,Central,Maize,B,536.83,1148.01,616286.2083,Arua,,Aug
+FARM1706,Paul Dunn,Unknown,Eastern,Maize,,-10,2668.16,,Kampala,Direct Sale,May
+FARM7964,Shane Evans,,Western,Beans,C,310.35,576.64,178960.22400000002,Mbarara,,Dec
+FARM5674,Jenna Sanchez,Unknown,Northern,Sorghum,B,,821.27,,Gulu,Export,Apr
+FARM2666,Jose Castillo,25,Northern,Beans,B,-10,532.08,,Arua,Cooperative Society,Oct
+FARM7012,William Rhodes,Unknown,Eastern,Maize,B,450.05,1886.63,849077.8315000001,Gulu,Export,Feb
+FARM2068,Cesar Ortega MD,43,Northern,Groundnuts,B,-10,1934.86,,Mbarara,,Dec
+FARM4241,Samantha Garza,Unknown,Northern,Matooke,A,,1057.25,,Jinja,Export,Oct
+FARM4363,Morgan Hartman,Unknown,Northern,Beans,,682.33,2303.84,1571979.1472000002,Mbarara,Cooperative Society,Jun
+FARM7778,Justin Khan,,Eastern,Rice,B,175.91,2824.66,496885.9406,Arua,Direct Sale,Oct
+FARM1695,Andrew Allen,33,Western,Cassava,A,,2771.04,,Arua,Cooperative Society,Aug
+FARM6162,Phillip Nichols,29,Central,Maize,,,1475.54,,Mbarara,Direct Sale,Dec
+FARM8335,Albert Blake,59,Western,Beans,B,-10,1743.51,,Gulu,Direct Sale,Nov
+FARM4345,Melissa Mcgee,Unknown,Western,Cassava,B,,2125.84,,Arua,Export,Sep
+FARM3417,Kim Hall DDS,Unknown,Northern,Beans,,,1012.56,,Mbarara,Direct Sale,Jan
+FARM7951,Frederick Smith,,Northern,Cassava,B,340.4,2622.69,892763.676,Mbarara,Direct Sale,Aug
+FARM4146,April Johnson,,Western,Matooke,A,733.05,643.83,471959.58150000003,Jinja,Direct Sale,Apr
+FARM7117,William Nielsen,Unknown,Western,Matooke,A,,2744.58,,Mbarara,Local Market,Jun
+FARM2527,Kelly Greene MD,Unknown,Central,Beans,A,,917.22,,Arua,Cooperative Society,May
+FARM5785,Diane Ramsey,Unknown,Northern,Rice,A,,1579.39,,Mbale,,Oct
+FARM2419,Autumn Hall,47,Central,Groundnuts,C,,1824.23,,Mbale,Export,Apr
+FARM4404,Charles Frazier V,43,Western,Cassava,C,-10,851.45,,Mbarara,Local Market,Oct
+FARM7467,Katherine Hunt,Unknown,Northern,Groundnuts,,-10,2469.17,,Kampala,Cooperative Society,Feb
+FARM8452,Laura Taylor,,Eastern,Groundnuts,A,602.41,1894.75,1141416.3475,Arua,,Feb
+FARM4620,Laura Solis,,Northern,Cassava,,-10,1088.1,,Jinja,Direct Sale,Jun
+FARM6266,Patricia Mayer,46,Western,Matooke,,,1149.62,,Kampala,Local Market,Nov
+FARM6733,Rodney Smith,Unknown,Eastern,Cassava,B,-10,607.17,,Gulu,Direct Sale,Jul
+FARM8781,Julie Johnson,Unknown,Western,Beans,B,666.86,2075.31,1383941.2266,Jinja,Cooperative Society,Feb
+FARM6307,Jill Holmes,24,Western,Cassava,B,,716.98,,Kampala,Cooperative Society,Jul
+FARM4072,Lisa Williams,63,Central,Matooke,B,,1881.28,,Kampala,Export,Mar
+FARM6819,Jessica Zamora,53,Western,Maize,C,-10,1033.34,,Kampala,Local Market,Dec
+FARM3019,Ryan Marshall,25,Western,Cassava,,,1069.39,,Mbarara,,Jan
+FARM3069,Taylor Turner,54,Northern,Rice,,-10,2507.73,,Mbale,Export,Mar
+FARM1912,Paige Leonard,,Northern,Matooke,B,889.58,2282.53,2030493.0374000003,Kampala,,Oct
+FARM6286,Amanda Lewis,,Northern,Beans,B,,524.26,,Mbarara,,Mar
+FARM5157,Frank Rios,29,Central,Rice,A,,2076.79,,Mbarara,,Feb
+FARM9108,Kristin Stevens,Unknown,Central,Rice,B,-10,2281.85,,Mbarara,,Apr
+FARM9316,Rodney Williams,,Northern,Beans,B,,2623.07,,Mbale,,Sep
+FARM3868,Robert Solomon,,Central,Matooke,C,,697.8,,Gulu,Export,Jan
+FARM3220,Cesar Oneill,,Northern,Sorghum,C,-10,2271.71,,Mbarara,Export,Mar
+FARM6997,Jonathon Macias,,Northern,Groundnuts,,965.82,567.69,548286.3558000001,Jinja,Cooperative Society,Sep
+FARM3231,Joseph Davis,,Northern,Groundnuts,A,299.24,816.6,244359.38400000002,Mbale,Direct Sale,Feb
+FARM2820,Timothy Graves,67,Central,Beans,A,395.32,2158.49,853294.2667999999,Mbale,Local Market,Oct
+FARM9821,David Hancock,62,Eastern,Groundnuts,,529.88,2050.78,1086667.3064000001,Arua,Cooperative Society,Nov
+FARM1537,Jeffrey Mendoza,,Northern,Groundnuts,A,,1838.73,,Arua,Direct Sale,Mar
+FARM3401,Kenneth Jones,57,Northern,Cassava,C,,2214.65,,Mbarara,Direct Sale,May
+FARM7292,Shawn Bowman,26,Central,Rice,,-10,839.92,,Arua,Export,Oct
+FARM3469,Erica Levy,Unknown,Central,Sorghum,C,-10,2728.11,,Kampala,Local Market,Oct
+FARM4473,Jessica Soto,46,Eastern,Rice,,-10,1595.36,,Arua,,Nov
+FARM9664,Scott Chandler Jr.,,Eastern,Cassava,B,-10,1357.2,,Mbale,Local Market,Jan
+FARM3616,Shelia Hines,,Western,Cassava,,442.42,1049.53,464333.0626,Kampala,Direct Sale,Dec
+FARM4146,Shirley Thornton,Unknown,Eastern,Groundnuts,A,146.07,1756.0,256498.91999999998,Gulu,,Mar
+FARM3669,Shane Cowan,,Eastern,Rice,B,,1806.49,,Gulu,Export,Jan
+FARM1063,Dr. Cameron King,Unknown,Central,Maize,,338.76,2922.25,989941.4099999999,Jinja,Cooperative Society,Oct
+FARM2288,Michael Franco,26,Northern,Beans,,,2680.05,,Kampala,Local Market,Jun
+FARM7495,Kristina Tran,47,Eastern,Sorghum,,794.77,2487.47,1976966.5318999998,Jinja,Direct Sale,Aug
+FARM7991,Raymond Jacobs,Unknown,Eastern,Cassava,,-10,1525.89,,Jinja,Export,Jul
+FARM8737,Kristen Atkins,39,Western,Groundnuts,,-10,2475.26,,Jinja,,Feb
+FARM6084,Samantha Mendoza,,Northern,Rice,B,,990.2,,Kampala,Direct Sale,Jun
+FARM1515,Christopher Garcia MD,29,Northern,Matooke,A,447.78,1675.95,750456.891,Mbale,Direct Sale,Aug
+FARM7992,Dominique Oconnell,59,Western,Maize,,,1322.85,,Kampala,Local Market,Apr
+FARM1432,Alice Jimenez,Unknown,Western,Rice,B,-10,2729.55,,Mbarara,,Jan
+FARM1063,Megan Walker,Unknown,Northern,Cassava,B,-10,906.53,,Kampala,Export,Feb
+FARM7590,Andrew Hamilton,,Northern,Sorghum,C,,2109.35,,Mbarara,Cooperative Society,Oct
+FARM2896,William Mcdonald,,Western,Maize,,,2835.82,,Mbarara,Export,Jul
+FARM8262,Marc Parker,60,Western,Cassava,B,,1642.0,,Mbarara,Export,Sep
+FARM8556,Nathan Ellis,Unknown,Eastern,Rice,,728.12,1344.67,979081.1204,Mbarara,Local Market,Sep
+FARM1927,Carl Nelson,Unknown,Western,Groundnuts,C,,2477.6,,Mbarara,Local Market,May
+FARM5842,Curtis Fisher,,Northern,Beans,B,715.08,821.1,587152.1880000001,Gulu,Direct Sale,Jun
+FARM8069,Jennifer Smith,Unknown,Western,Cassava,,-10,1355.71,,Jinja,Direct Sale,Jun
+FARM3037,Daniel Miller,,Central,Cassava,C,171.53,1309.31,224585.9443,Arua,Cooperative Society,Oct
+FARM1638,Roy Smith,Unknown,Eastern,Matooke,,-10,638.31,,Arua,Direct Sale,May
+FARM8214,Jennifer Bush,62,Northern,Sorghum,A,,2277.26,,Kampala,Local Market,Jan
+FARM9105,Raymond Schaefer,,Northern,Cassava,B,,1901.81,,Kampala,Export,Nov
+FARM7407,Devin Rodriguez,Unknown,Central,Groundnuts,,-10,2986.78,,Gulu,Local Market,Jun
+FARM9423,Desiree Becker,Unknown,Central,Groundnuts,B,-10,2564.31,,Mbarara,,Aug
+FARM8581,Joshua Turner,Unknown,Northern,Groundnuts,B,-10,1201.85,,Gulu,Local Market,Jan
+FARM9057,Joseph Stevens,,Eastern,Sorghum,A,-10,1623.73,,Kampala,Direct Sale,Mar
+FARM8369,Dominic Alvarado,,Western,Cassava,A,387.25,2404.09,930983.8525,Jinja,,Jun
+FARM8993,Amanda Thomas,,Northern,Beans,B,342.19,2602.05,890395.4895,Kampala,Direct Sale,Apr
+FARM1726,Tyler Montgomery,,Western,Maize,B,992.34,2586.88,2567064.4992,Jinja,Export,Nov
+FARM7638,Robert Ross,Unknown,Central,Beans,C,,1249.47,,Kampala,Local Market,Nov
+FARM3025,Stefanie Sosa,Unknown,Northern,Matooke,C,483.33,2462.55,1190224.2915,Mbale,Local Market,Feb
+FARM2154,Toni Smith,24,Western,Maize,B,432.34,2876.78,1243747.0652,Jinja,Direct Sale,Jan
+FARM5072,Carla Rivera,Unknown,Eastern,Matooke,,-10,1546.59,,Mbale,,Nov
+FARM3894,Frederick Welch,Unknown,Northern,Sorghum,A,262.21,675.93,177235.60529999997,Arua,Cooperative Society,Aug
+FARM3575,Tammy West,30,Central,Groundnuts,C,-10,2004.76,,Kampala,Local Market,Apr
+FARM6854,Hannah Cox,Unknown,Western,Cassava,C,,2664.23,,Kampala,,Oct
+FARM1772,Lorraine Mcintosh,39,Western,Cassava,A,-10,619.1,,Gulu,,May
+FARM8854,Dawn Cervantes,Unknown,Northern,Cassava,A,-10,601.42,,Arua,Export,Feb
+FARM8016,Andrew Nguyen,,Western,Rice,A,,1885.85,,Mbale,Direct Sale,May
+FARM9538,Jacob Watson,24,Western,Beans,C,,1322.54,,Kampala,Local Market,Nov
+FARM6738,Tommy Atkinson,19,Eastern,Matooke,C,233.08,2101.72,489868.89759999997,Mbale,,Apr
+FARM6098,Cameron Richmond,Unknown,Central,Cassava,,627.19,1279.71,802621.3149000001,Kampala,Direct Sale,Jul
+FARM5390,Brad Harris,38,Northern,Groundnuts,B,,2303.88,,Jinja,Export,Dec
+FARM4858,Katrina Mckay,,Western,Groundnuts,,-10,763.97,,Mbarara,,Sep
+FARM4843,Kelli Hurley,,Central,Beans,B,,2903.61,,Jinja,Export,Aug
+FARM6935,Sarah Brewer,,Northern,Sorghum,A,,2307.04,,Gulu,,Sep
+FARM7254,Kenneth Gilbert,23,Northern,Groundnuts,,639.45,1464.15,936250.7175000001,Kampala,,Mar
+FARM2897,Robin Smith,Unknown,Northern,Matooke,B,-10,2992.04,,Arua,Cooperative Society,Dec
+FARM4655,Robert Morton,,Northern,Matooke,A,577.86,2404.51,1389470.1486000002,Mbarara,Local Market,Jun
+FARM5368,Cindy Howard,49,Northern,Maize,B,382.26,1677.52,641248.7951999999,Kampala,Export,Jun
+FARM4239,Nicole Donovan DDS,31,Eastern,Rice,A,-10,632.95,,Mbale,Direct Sale,May
+FARM2863,Tara Brown,Unknown,Northern,Rice,C,272.54,2182.01,594685.0054000001,Gulu,Export,Jan
+FARM4893,Robert Ortiz,,Central,Beans,,-10,2890.08,,Mbarara,Local Market,Jul
+FARM9485,Jennifer Hooper,64,Western,Beans,C,155.18,2323.2,360514.176,Arua,Direct Sale,Jul
+FARM3711,Christina Garcia,Unknown,Western,Cassava,A,,1897.29,,Jinja,Export,Dec
+FARM8059,Courtney Santos,67,Central,Beans,B,-10,1827.12,,Mbarara,Direct Sale,Jun
+FARM1348,Jose Jones,,Western,Matooke,C,869.27,1692.14,1470926.5378,Jinja,Export,Dec
+FARM8208,Dr. Kenneth Dean MD,,Central,Matooke,,,1823.51,,Arua,Direct Sale,Jun
+FARM2002,Jodi Brown,47,Eastern,Cassava,,270.53,2213.29,598761.3437,Mbale,Direct Sale,Jul
+FARM2327,Diana Foster,,Western,Maize,B,-10,679.84,,Gulu,Cooperative Society,Dec
+FARM8016,Miss Breanna Vargas,Unknown,Northern,Matooke,B,309.16,2546.91,787402.6956,Mbarara,,Sep
+FARM7661,Ashley Reynolds,51,Eastern,Beans,B,470.24,2214.06,1041139.5744,Jinja,,Jun
+FARM6000,Krista Collins,,Central,Matooke,,963.32,2659.92,2562354.1344000003,Arua,Local Market,Jan
+FARM2024,Ann Vang,,Northern,Groundnuts,C,,2211.87,,Arua,Cooperative Society,Jun
+FARM9013,Robert Austin,,Northern,Groundnuts,A,728.74,543.48,396055.6152,Mbarara,Export,Sep
+FARM2362,Bradley Smith,36,Western,Cassava,C,767.96,1842.78,1415181.3288,Arua,Cooperative Society,Aug
+FARM2224,Zachary Wilson MD,,Eastern,Rice,B,,960.81,,Gulu,Direct Sale,May
+FARM3164,Cassandra Brown,24,Eastern,Matooke,A,,1488.7,,Gulu,Export,Mar
+FARM6404,Angela Noble,Unknown,Eastern,Cassava,A,640.5,2025.03,1297031.715,Gulu,Direct Sale,May
+FARM3627,Jo Green,22,Central,Groundnuts,C,,1821.51,,Jinja,,Sep
+FARM2437,Valerie Allen,,Northern,Beans,B,,2818.56,,Arua,Export,Feb
+FARM7719,Vanessa Graham,Unknown,Eastern,Matooke,C,,1346.53,,Arua,Cooperative Society,Sep
+FARM9068,Michael Jackson,Unknown,Central,Sorghum,,518.9,584.77,303437.153,Mbale,Cooperative Society,Feb
+FARM9219,Jeffrey Moore,,Central,Beans,C,-10,1353.44,,Gulu,Export,Jun
+FARM5361,Paige Winters,Unknown,Eastern,Rice,B,374.01,1191.52,445640.39519999997,Gulu,,Mar
+FARM7084,Samantha Hutchinson,Unknown,Central,Sorghum,,-10,2418.18,,Kampala,Direct Sale,Mar
+FARM7471,Jordan Chambers,,Central,Rice,C,250.14,2301.85,575784.759,Jinja,,Dec
+FARM4392,Katherine Mccoy,70,Northern,Maize,C,575.37,1823.78,1049348.2986,Jinja,Local Market,Nov
+FARM1539,Derek Rush,58,Eastern,Beans,A,-10,814.11,,Kampala,Direct Sale,Sep
+FARM5930,Lisa Gomez,Unknown,Central,Rice,A,-10,2376.01,,Arua,Direct Sale,Apr
+FARM6647,Kimberly Carlson,,Northern,Maize,A,860.83,2162.25,1861329.6675,Gulu,Direct Sale,May
+FARM9649,Tracey Jones,,Eastern,Groundnuts,,,1476.22,,Kampala,Local Market,Jan
+FARM2120,Tommy Tate,,Western,Cassava,B,546.51,1842.59,1006993.8609,Gulu,,Mar
+FARM3621,Timothy Davis,Unknown,Western,Matooke,A,-10,639.37,,Mbarara,Export,Nov
+FARM1720,Deborah Evans,Unknown,Northern,Cassava,C,534.72,2513.85,1344205.872,Mbarara,Local Market,Feb
+FARM9735,Kaitlin Turner,20,Eastern,Rice,,,851.86,,Kampala,Direct Sale,Dec
+FARM9370,Haley Silva,41,Eastern,Beans,B,415.2,2494.34,1035649.968,Mbarara,Cooperative Society,Mar
+FARM7065,Cheryl Lewis,,Northern,Beans,A,153.6,826.2,126904.32,Arua,Cooperative Society,Apr
+FARM9477,Wesley Soto,Unknown,Central,Rice,,,1259.09,,Jinja,,Dec
+FARM2813,Candace Thompson,Unknown,Eastern,Rice,C,-10,1842.01,,Mbale,Local Market,Dec
+FARM5953,Daniel Fletcher,Unknown,Eastern,Maize,,839.85,840.69,706053.4965,Jinja,Export,Dec
+FARM1982,Megan French,32,Western,Groundnuts,A,-10,2536.3,,Kampala,,Dec
+FARM1181,Melissa Greene,67,Central,Sorghum,C,,2938.24,,Gulu,Local Market,Jun
+FARM2512,Sherri Randall,43,Eastern,Rice,,-10,1113.1,,Kampala,,Jul
+FARM3206,Zachary Baxter,,Eastern,Beans,C,,2562.67,,Mbale,Cooperative Society,Aug
+FARM6775,Christian Goodwin,,Central,Matooke,C,-10,1423.3,,Jinja,,Mar
+FARM7648,Lynn Hamilton,,Western,Rice,C,-10,2962.55,,Kampala,Export,Aug
+FARM7862,Edward Nolan,Unknown,Western,Beans,A,-10,2853.26,,Jinja,Direct Sale,Jul
+FARM4599,Thomas Kemp,Unknown,Eastern,Rice,,,1197.23,,Gulu,Export,Sep
+FARM8381,Sabrina Robinson,Unknown,Western,Maize,C,,1538.71,,Gulu,Cooperative Society,Apr
+FARM8447,Susan Thomas,50,Eastern,Matooke,B,589.92,2431.7,1434508.4639999997,Gulu,Export,Nov
+FARM7895,Michael Young,,Western,Beans,B,,542.38,,Jinja,Cooperative Society,Nov
+FARM7629,William Hopkins,28,Western,Matooke,B,573.5,2145.19,1230266.465,Kampala,,Feb
+FARM2074,Shannon Lara,21,Western,Sorghum,,-10,2738.97,,Mbarara,Direct Sale,Jul
+FARM8587,Shelby Thomas,,Eastern,Matooke,C,,2841.47,,Jinja,Local Market,Apr
+FARM4178,William Vega,,Central,Maize,C,,826.89,,Arua,Cooperative Society,Mar
+FARM3352,Kevin Henderson,Unknown,Northern,Matooke,A,,938.29,,Kampala,Export,Apr
+FARM3120,Francis Kramer,Unknown,Eastern,Groundnuts,A,,2765.4,,Mbarara,Cooperative Society,Mar
+FARM6812,Joseph Carson,,Eastern,Beans,B,,797.86,,Arua,Direct Sale,Feb
+FARM2589,Donald Jordan,62,Central,Maize,B,-10,1325.73,,Kampala,Local Market,Jun
+FARM3585,Julie Rios,,Western,Cassava,B,,841.31,,Arua,,May
+FARM6123,Jessica Elliott,56,Northern,Groundnuts,B,-10,2050.06,,Mbale,Cooperative Society,May
+FARM3480,Anna Brown,Unknown,Western,Rice,B,646.88,630.64,407948.4032,Arua,Export,Feb
+FARM4330,Jeffrey Morrison,47,Eastern,Cassava,B,,1886.4,,Kampala,Cooperative Society,Apr
+FARM6383,Richard Small,,Western,Matooke,B,-10,2908.72,,Mbale,Export,Mar
+FARM7990,Eric Weiss DVM,,Western,Rice,C,-10,2298.08,,Kampala,Local Market,Feb
+FARM7847,Christopher Garcia,,Western,Cassava,B,-10,2244.34,,Arua,,Apr
+FARM7773,Margaret Chandler,33,Western,Rice,C,-10,1818.41,,Mbarara,Export,Oct
+FARM7706,Christopher Williams,,Western,Cassava,C,-10,2032.79,,Arua,,Feb
+FARM9239,Preston Schroeder,,Central,Maize,C,,2888.63,,Kampala,Cooperative Society,Apr
+FARM1951,Jacob Harris,,Western,Beans,A,,2919.17,,Jinja,Direct Sale,Nov
+FARM8292,James Russell,,Central,Rice,B,-10,2587.41,,Gulu,,Mar
+FARM7906,Timothy Hatfield,26,Northern,Matooke,A,872.74,1483.93,1295085.0682,Arua,Direct Sale,Jul
+FARM4764,Brian Henderson,,Northern,Matooke,C,,2398.08,,Jinja,Local Market,Apr
+FARM5131,Douglas Lee,,Western,Rice,C,647.3,2742.94,1775505.062,Kampala,Cooperative Society,Dec
+FARM3069,Mrs. Emily Hall,31,Central,Maize,C,334.31,823.52,275310.97119999997,Kampala,Local Market,Sep
+FARM3258,Tara Robbins,45,Central,Cassava,B,,2780.3,,Kampala,,Sep
+FARM6586,Dr. Dale Hill,33,Western,Cassava,B,-10,980.54,,Mbale,Export,Dec
+FARM6957,David Peterson,65,Northern,Groundnuts,,753.37,1092.06,822725.2422,Gulu,Export,Mar
+FARM2085,Kyle Hayes,,Eastern,Sorghum,,,1746.36,,Arua,Direct Sale,Feb
+FARM9914,Penny Thompson,35,Central,Cassava,B,643.49,2260.94,1454892.2806,Jinja,Direct Sale,Apr
+FARM1028,Timothy Howard,Unknown,Eastern,Maize,C,,2649.54,,Mbale,Cooperative Society,Feb
+FARM1370,Tara Gonzalez,Unknown,Central,Beans,A,,1393.79,,Mbarara,Cooperative Society,May
+FARM9729,Jesse Ford,,Eastern,Matooke,A,806.96,1135.15,916020.6440000001,Jinja,Direct Sale,Mar
+FARM8210,Robert Blair,38,Northern,Rice,B,375.75,2111.58,793426.1849999999,Mbarara,Local Market,Jun
+FARM8795,Karen Collins,Unknown,Central,Rice,A,865.75,1320.41,1143144.9575,Mbale,Cooperative Society,Apr
+FARM5832,Timothy Garza,26,Central,Groundnuts,,404.32,743.11,300454.2352,Mbarara,Cooperative Society,Dec
+FARM7466,Alexis Smith DVM,Unknown,Western,Maize,C,-10,1161.68,,Kampala,Direct Sale,Apr
+FARM2640,Mrs. Sharon Adams DVM,,Northern,Maize,A,-10,2957.91,,Gulu,Direct Sale,Feb
+FARM7869,Daniel Hall,,Central,Cassava,A,955.17,2301.51,2198333.3067,Mbarara,Export,Mar
+FARM7753,Donald Long DDS,Unknown,Northern,Rice,B,-10,753.33,,Gulu,Direct Sale,Aug
+FARM7218,Mrs. Jessica Petty,,Eastern,Matooke,,-10,975.19,,Arua,Local Market,Apr
+FARM8229,Valerie Palmer,Unknown,Western,Maize,C,990.48,2019.87,2000640.8376,Mbarara,,Jul
+FARM5364,Amanda Alvarado,53,Northern,Cassava,A,,1819.68,,Gulu,Cooperative Society,Jun
+FARM9592,Theresa Terrell,Unknown,Eastern,Rice,A,499.28,540.65,269935.73199999996,Mbarara,,Sep
+FARM4731,Joseph Garcia,,Western,Matooke,B,875.54,692.17,606022.5218,Jinja,Cooperative Society,Jul
+FARM8600,Audrey Le,29,Western,Maize,C,737.14,2022.48,1490850.9072,Mbale,Local Market,Sep
+FARM9896,Stephanie Howard,,Western,Groundnuts,C,-10,1911.64,,Mbale,,Sep
+FARM1981,Sara Shaw,,Central,Maize,A,210.99,2405.05,507441.49950000003,Kampala,Cooperative Society,Apr
+FARM7590,Kayla Riggs,Unknown,Central,Beans,,,2858.79,,Mbarara,Export,May
+FARM1192,Amy Morgan,,Northern,Rice,C,-10,2013.83,,Mbarara,,Aug
+FARM4239,Robert Cain,,Central,Cassava,,-10,2901.38,,Mbale,Cooperative Society,Mar
+FARM8290,Kimberly Porter,,Eastern,Beans,,879.13,1984.22,1744387.3286000001,Gulu,,Nov
+FARM9391,Thomas Payne,45,Northern,Groundnuts,B,,2093.8,,Kampala,,Sep
+FARM5713,Heather Drake,,Northern,Rice,A,,1459.91,,Gulu,Local Market,Jul
+FARM7004,Miss Michelle Montoya,Unknown,Northern,Maize,C,,880.55,,Jinja,,Jan
+FARM8167,Vincent Peters,26,Eastern,Matooke,C,-10,2523.32,,Kampala,Direct Sale,Dec
+FARM7060,Reginald Bishop,Unknown,Eastern,Groundnuts,C,,2806.85,,Mbarara,,May
+FARM4932,Kristin Coleman,,Central,Cassava,,-10,2689.94,,Kampala,Direct Sale,Aug
+FARM4400,Susan Sullivan,Unknown,Eastern,Beans,,438.94,515.39,226225.2866,Gulu,Cooperative Society,Nov
+FARM7470,Renee Gray,70,Central,Groundnuts,,770.86,2029.37,1564360.1582,Gulu,Export,Nov
+FARM7203,Robert Martinez,Unknown,Western,Sorghum,A,458.9,985.8,452383.61999999994,Mbarara,Local Market,Apr
+FARM9191,Nicole Turner,,Eastern,Matooke,C,664.84,2848.98,1894115.8632,Arua,,Jul
+FARM7078,Rebecca Campos,25,Eastern,Groundnuts,C,,2433.91,,Mbale,Cooperative Society,Sep
+FARM6455,Matthew Franklin,54,Eastern,Sorghum,A,260.75,2383.35,621458.5125,Mbale,Local Market,Jun
+FARM4143,Laura Whitehead,Unknown,Western,Maize,C,,2158.84,,Mbale,,Oct
+FARM3037,Heather Baker,,Western,Rice,B,761.17,2564.63,1952119.4171,Mbarara,,Aug
+FARM5336,Sara Manning,,Northern,Rice,C,496.97,2209.84,1098224.1848000002,Mbale,Cooperative Society,Jun
+FARM5041,Kari Smith,33,Central,Sorghum,,,1267.83,,Gulu,,Mar
+FARM9744,Russell Blackwell,51,Northern,Beans,C,448.95,1874.19,841417.6005000001,Mbarara,Direct Sale,Jul
+FARM1182,Christopher Valencia,,Eastern,Matooke,B,333.81,2931.87,978687.5247,Gulu,Export,Jul
+FARM3994,Matthew Morrison,Unknown,Northern,Beans,A,,2518.16,,Jinja,Cooperative Society,Dec
+FARM2159,Jennifer Johnson,47,Northern,Rice,A,-10,1022.22,,Jinja,Cooperative Society,Apr
+FARM8324,Matthew Shannon,Unknown,Northern,Beans,,,698.91,,Jinja,Local Market,May
+FARM3387,Michael Moreno,,Central,Maize,B,114.44,2790.84,319383.7296,Mbarara,Local Market,Jan
+FARM9933,Michael Austin,Unknown,Northern,Matooke,A,,2353.42,,Arua,,Mar
+FARM7646,Keith Nunez,,Western,Rice,B,-10,2466.06,,Kampala,Direct Sale,May
+FARM8062,Kenneth Cline,Unknown,Central,Sorghum,,,1136.89,,Mbarara,Cooperative Society,Nov
+FARM9415,Nicole Mcguire,Unknown,Eastern,Maize,C,848.02,615.88,522278.5576,Jinja,Direct Sale,Apr
+FARM5416,Jamie Brown,Unknown,Central,Matooke,B,,1391.47,,Mbarara,Cooperative Society,Mar
+FARM9311,Richard Taylor,,Central,Sorghum,A,166.19,1196.54,198852.9826,Kampala,Local Market,Apr
+FARM4219,Leah Flores,45,Northern,Rice,A,,2059.31,,Arua,Direct Sale,Mar
+FARM7454,Andrew Diaz,57,Western,Sorghum,B,992.43,2983.03,2960448.4629,Gulu,Local Market,Feb
+FARM2727,Cheryl Rogers,29,Central,Matooke,,110.73,2083.59,230715.92070000002,Mbarara,Local Market,Apr
+FARM2038,Ryan Diaz,Unknown,Western,Rice,B,,2442.02,,Kampala,Direct Sale,Jan
+FARM9112,Andrew Rich,,Western,Beans,B,-10,1847.36,,Mbarara,Local Market,Mar
+FARM8895,Brenda Banks,Unknown,Northern,Beans,,,2210.16,,Gulu,,Jul
+FARM2951,Jeremy King,,Central,Groundnuts,B,,2715.86,,Gulu,Direct Sale,Jul
+FARM4330,Mrs. Tracy Gray,,Central,Rice,A,,771.18,,Mbarara,,Feb
+FARM8305,Nathaniel Miller,,Western,Cassava,B,,1016.54,,Gulu,Export,Dec
+FARM5527,Austin Perez,28,Western,Cassava,B,287.49,2427.69,697936.5981000001,Mbarara,Direct Sale,Nov
+FARM5665,Kathy Armstrong,,Eastern,Groundnuts,C,-10,1353.58,,Mbarara,Export,Oct
+FARM7357,Brian Bridges,34,Eastern,Rice,A,-10,2162.43,,Jinja,Export,Sep
+FARM1904,Todd Lopez,Unknown,Northern,Sorghum,,919.66,632.61,581786.1126,Kampala,Direct Sale,Sep
+FARM5018,Mary Lopez,,Eastern,Groundnuts,A,-10,874.03,,Kampala,Local Market,Jul
+FARM7481,Lisa Lee,,Eastern,Matooke,B,109.32,2141.61,234120.8052,Mbale,Local Market,Apr
+FARM5933,Mark Heath,Unknown,Eastern,Beans,C,,1887.89,,Mbale,,Mar
+FARM3478,Michael Johnson,31,Western,Rice,,-10,1921.74,,Mbarara,,May
+FARM4344,Scott Bush,,Western,Matooke,C,760.22,1451.38,1103368.1036,Gulu,Export,Aug
+FARM6350,Natasha Welch,,Northern,Cassava,A,157.18,1312.6,206314.468,Mbale,Direct Sale,Jul
+FARM3916,Jared Hodge,55,Northern,Matooke,,-10,747.14,,Mbarara,Local Market,Sep
+FARM3375,Katie Herrera,,Western,Cassava,C,413.39,2625.95,1085541.4704999998,Mbarara,Local Market,Feb
+FARM6594,Elizabeth Graham,Unknown,Central,Groundnuts,C,432.8,1351.45,584907.56,Gulu,Local Market,Nov
+FARM9194,Priscilla Ross,37,Western,Maize,C,-10,2327.05,,Gulu,Export,Oct
+FARM8191,Brenda Oconnor,,Eastern,Groundnuts,B,,2680.0,,Jinja,Direct Sale,Sep
+FARM8865,Danielle Daniels,,Central,Rice,A,-10,2216.92,,Mbarara,Direct Sale,Sep
+FARM1258,Austin Rogers,,Western,Groundnuts,A,,1936.49,,Mbale,Cooperative Society,Oct
+FARM2017,Katie Hudson,,Western,Maize,,522.42,2116.42,1105660.1364,Arua,Cooperative Society,Dec
+FARM7957,Omar Anderson,Unknown,Eastern,Matooke,C,369.21,1665.15,614790.0315,Gulu,Cooperative Society,Jun
+FARM1879,Zachary Myers,Unknown,Western,Groundnuts,B,,1827.87,,Arua,Export,Dec
+FARM5246,John Garcia,Unknown,Western,Groundnuts,C,-10,1916.38,,Gulu,,Feb
+FARM9062,Anthony Decker,,Western,Beans,C,738.12,2526.02,1864505.8824,Gulu,Local Market,Jun
+FARM9882,David Baker,,Western,Maize,,574.39,932.43,535578.4676999999,Jinja,Direct Sale,Oct
+FARM3395,Jon Riddle,Unknown,Northern,Matooke,B,-10,916.57,,Mbale,Cooperative Society,Apr
+FARM1965,Michelle Cardenas,,Eastern,Beans,C,687.69,1971.44,1355739.5736000002,Kampala,Local Market,Apr
+FARM2099,Phyllis Roth,,Eastern,Matooke,A,-10,2854.96,,Mbarara,Direct Sale,Apr
+FARM1329,Eric Welch,30,Western,Beans,C,831.82,662.67,551222.1594,Arua,Cooperative Society,Jul
+FARM4165,Mark Blankenship,Unknown,Central,Maize,C,-10,2560.54,,Jinja,Local Market,Apr
+FARM7904,Thomas Schwartz,41,Western,Matooke,C,,2222.68,,Kampala,,Jan
+FARM1351,Kristina Brown,Unknown,Northern,Beans,A,151.69,2103.74,319116.3206,Mbale,Local Market,Aug
+FARM5479,Ellen Watson,Unknown,Eastern,Rice,C,,1236.83,,Arua,Cooperative Society,Apr
+FARM5271,Jennifer Cantrell,,Central,Maize,B,,1084.72,,Mbarara,Cooperative Society,Sep
+FARM3480,Joshua Novak,Unknown,Eastern,Rice,A,,2465.71,,Gulu,Cooperative Society,Feb
+FARM3451,Laurie Hooper,,Central,Beans,A,223.03,2776.12,619158.0436,Jinja,,Aug
+FARM5447,Jennifer Miller,,Northern,Groundnuts,A,593.33,1295.66,768753.9478000001,Jinja,Export,May
+FARM6405,Jodi Hoover,29,Eastern,Maize,,,2761.81,,Mbale,Cooperative Society,Mar
+FARM7977,Angela Bell,Unknown,Western,Sorghum,A,521.38,2073.5,1081081.43,Arua,Cooperative Society,Oct
+FARM7776,Timothy Hamilton,46,Central,Sorghum,A,708.99,1582.28,1121820.6972,Jinja,Cooperative Society,Oct
+FARM9191,Kathryn Pennington,,Western,Maize,B,-10,2480.82,,Mbarara,Cooperative Society,Apr
+FARM1416,Caleb Johnson,,Eastern,Maize,A,-10,1223.36,,Mbale,Direct Sale,Sep
+FARM2727,Stephanie Miller,Unknown,Western,Cassava,C,-10,1337.29,,Kampala,Export,Apr
+FARM4122,Vanessa Cook,,Eastern,Cassava,A,302.69,2954.32,894243.1208,Mbale,Direct Sale,May
+FARM7314,David Morales,Unknown,Central,Matooke,C,,536.66,,Gulu,Direct Sale,Jul
+FARM5485,Franklin Cox,,Northern,Beans,C,-10,1260.13,,Gulu,,Nov
+FARM1543,Wendy Clark,Unknown,Central,Beans,B,491.12,2909.49,1428908.7288,Kampala,Local Market,Nov
+FARM9721,Sandra Soto,62,Northern,Cassava,B,-10,991.16,,Arua,Local Market,Nov
+FARM7503,Shelly Brown,,Central,Maize,C,276.67,1934.99,535353.6833,Gulu,,Sep
+FARM9727,Rebecca Lopez,Unknown,Northern,Matooke,B,,682.64,,Kampala,Local Market,Nov
+FARM2168,Jasmine Allen,Unknown,Northern,Cassava,B,,1092.69,,Mbarara,Local Market,Nov
+FARM9806,Shawn White,Unknown,Western,Beans,C,-10,2222.64,,Arua,Local Market,Aug
+FARM7288,Monique Bowman,Unknown,Central,Matooke,A,114.21,2595.29,296408.0709,Jinja,Export,Mar
+FARM9352,Cheryl Murphy,,Western,Cassava,C,-10,2721.29,,Jinja,Export,Oct
+FARM1243,Matthew Owens Jr.,Unknown,Central,Beans,A,-10,2158.3,,Kampala,Cooperative Society,Nov
+FARM6472,Eric Ellison,27,Eastern,Beans,C,,1577.32,,Mbale,Direct Sale,Nov
+FARM2807,Cynthia Anderson,Unknown,Northern,Cassava,A,-10,2482.43,,Kampala,Local Market,Oct
+FARM7384,David Mata,18,Eastern,Beans,,-10,2081.16,,Mbarara,,Nov
+FARM2022,Matthew Estrada,,Northern,Groundnuts,B,429.11,685.81,294287.9291,Mbale,Cooperative Society,May
+FARM2354,Brian Smith,27,Eastern,Rice,,-10,1881.52,,Jinja,Local Market,Dec
+FARM8860,Joseph Dixon,,Eastern,Maize,B,,2817.85,,Kampala,Local Market,Aug
+FARM5710,Megan Jackson,Unknown,Eastern,Matooke,C,,2029.86,,Mbale,Cooperative Society,Apr
+FARM2851,Darin Melendez,Unknown,Central,Beans,,-10,1721.4,,Jinja,Export,Apr
+FARM3384,Kenneth Parrish,,Western,Maize,B,239.17,1156.87,276688.59789999994,Mbale,Cooperative Society,Nov
+FARM5983,Leonard Perkins,Unknown,Western,Groundnuts,C,,2872.84,,Mbarara,Export,Apr
+FARM1664,David Davis,,Northern,Matooke,A,,974.21,,Mbarara,Cooperative Society,Jul
+FARM4384,Kristin Gray,Unknown,Northern,Maize,B,-10,2019.63,,Mbarara,Export,Feb
+FARM1854,Roger Schmitt,Unknown,Central,Rice,A,-10,2081.28,,Gulu,,Oct
+FARM2395,Justin Lewis,41,Western,Rice,A,-10,2287.35,,Jinja,Export,Nov
+FARM4373,Michael Roberts,47,Eastern,Groundnuts,B,-10,1677.42,,Kampala,Export,May
+FARM2240,Hailey Giles,Unknown,Northern,Cassava,B,527.58,2322.49,1225299.2741999999,Jinja,Export,May
+FARM4091,Glen Perez,45,Eastern,Cassava,B,204.82,1232.2,252379.204,Jinja,,Jan
+FARM6924,Valerie Watkins,28,Western,Cassava,A,,1577.67,,Arua,Local Market,Apr
+FARM6253,Daniel Hill,Unknown,Northern,Rice,C,-10,1272.61,,Arua,,Oct
+FARM4474,Yolanda Peterson,,Central,Sorghum,C,242.28,2890.28,700257.0384000001,Gulu,Export,Oct
+FARM3268,Kimberly Ramos,Unknown,Northern,Beans,A,-10,761.3,,Arua,,Jan
+FARM8999,Christine Black,,Central,Groundnuts,A,259.25,2621.33,679579.8025,Arua,Direct Sale,Mar
+FARM7113,Brandon Carr,Unknown,Eastern,Rice,B,-10,2255.79,,Mbarara,,Jul
+FARM2124,Elizabeth Fisher,,Northern,Rice,A,-10,2759.1,,Mbale,,Feb
+FARM6497,Amy Leon,28,Western,Maize,C,,1765.38,,Mbarara,Direct Sale,Jun
+FARM5281,Linda Cunningham,Unknown,Northern,Maize,C,,1448.79,,Arua,Cooperative Society,Aug
+FARM3685,Janet Hunter,Unknown,Central,Groundnuts,,,1478.17,,Jinja,Direct Sale,Mar
+FARM1582,Jessica Garcia,,Western,Cassava,,,1969.54,,Kampala,Cooperative Society,Sep
+FARM8156,Stephanie Davis,42,Central,Cassava,C,-10,763.47,,Jinja,Local Market,Nov
+FARM7180,Spencer Riley,,Eastern,Matooke,C,888.08,2553.4,2267623.472,Arua,Export,Jul
+FARM4777,Paige Lopez,36,Western,Maize,B,-10,629.18,,Jinja,Export,Oct
+FARM3591,Mary Callahan,,Western,Rice,B,524.64,2496.25,1309632.5999999999,Jinja,Local Market,Jan
+FARM7420,Kristy Sanford,,Northern,Beans,B,975.32,2765.3,2697052.396,Gulu,Cooperative Society,May
+FARM4645,Craig Davis,,Northern,Maize,A,,2466.55,,Mbarara,Export,Jul
+FARM7725,Joshua Hart,Unknown,Central,Rice,B,-10,2567.54,,Mbarara,Cooperative Society,Jul
+FARM1322,Elizabeth Padilla,55,Eastern,Rice,C,805.22,1340.14,1079107.5308,Arua,Local Market,Oct
+FARM9317,Michele Hart,Unknown,Eastern,Cassava,C,-10,1510.08,,Gulu,Local Market,Nov
+FARM6019,Kelly Crawford,Unknown,Western,Beans,,,1507.98,,Mbale,Export,Dec
+FARM2170,Kevin Holmes,,Western,Matooke,C,931.85,2992.07,2788160.4295,Mbarara,Direct Sale,Jan
+FARM4917,Joshua Jones,30,Western,Maize,B,723.12,2172.22,1570775.7263999998,Kampala,Direct Sale,Jun
+FARM2611,Angela Sherman,Unknown,Eastern,Maize,B,-10,624.94,,Jinja,Direct Sale,Apr
+FARM1849,Ann Hoffman,Unknown,Eastern,Matooke,A,-10,1031.38,,Jinja,,Oct
+FARM7706,Emily Middleton,42,Northern,Sorghum,,-10,2993.41,,Jinja,Local Market,Feb
+FARM3813,Michael Fisher,61,Eastern,Maize,C,,1398.78,,Gulu,Cooperative Society,May
+FARM6272,Tina Marshall,,Eastern,Cassava,C,993.19,1209.91,1201670.5129000002,Kampala,Local Market,Jan
+FARM5050,Stephanie Bailey,Unknown,Northern,Groundnuts,,,1522.38,,Gulu,Export,Sep
+FARM2460,Corey Garcia,,Northern,Beans,B,,749.79,,Mbarara,Local Market,May
+FARM5057,Emily Gardner,,Western,Rice,,828.74,1389.56,1151583.9544,Kampala,Cooperative Society,Sep
+FARM1719,Mary Price,,Central,Cassava,,865.4,1805.55,1562522.97,Mbarara,Cooperative Society,Jun
+FARM6638,Brendan Hughes,21,Northern,Sorghum,B,,1097.88,,Arua,Cooperative Society,Jan
+FARM3903,Amanda Cervantes,56,Central,Rice,B,,810.11,,Arua,,May
+FARM5202,Jill Campbell,Unknown,Central,Cassava,C,-10,2774.47,,Jinja,,Jun
+FARM4913,Ashley Harmon,Unknown,Northern,Matooke,A,,1026.35,,Arua,Export,Oct
+FARM3754,Craig Buck,,Eastern,Beans,,,1723.86,,Arua,,Oct
+FARM9811,Bill Rodriguez,Unknown,Northern,Beans,,,2584.03,,Mbarara,Cooperative Society,Aug
+FARM3804,Diane Brown,,Northern,Beans,A,,1425.41,,Gulu,Local Market,Apr
+FARM6537,Melissa Freeman,47,Western,Beans,A,602.91,2393.64,1443149.4923999999,Gulu,Direct Sale,Nov
+FARM2583,Nancy Dougherty,61,Northern,Rice,A,-10,2683.43,,Mbarara,Local Market,Aug
+FARM4711,Andrea Curtis,Unknown,Western,Groundnuts,C,-10,639.54,,Kampala,Local Market,Jan
+FARM2525,Anna Costa,Unknown,Western,Matooke,B,490.68,2661.1,1305748.548,Mbarara,,Jan
+FARM1194,Danielle Graves,Unknown,Eastern,Matooke,,-10,782.04,,Gulu,Cooperative Society,Aug
+FARM7589,Lisa Morrow,Unknown,Eastern,Groundnuts,A,621.65,998.73,620860.5045,Arua,,Jul
+FARM8844,Robert Chapman,,Central,Maize,A,180.61,1543.13,278704.70930000005,Arua,Direct Sale,Dec
+FARM1368,Brandon Wood,,Northern,Groundnuts,C,347.97,638.33,222119.69010000004,Gulu,Export,Oct
+FARM8978,Maria Jones,Unknown,Central,Beans,A,,641.64,,Mbarara,,Jul
+FARM9138,Taylor Mcmahon,Unknown,Western,Matooke,,611.26,1349.8,825078.7479999999,Kampala,Local Market,Jul
+FARM1938,Jessica Page,Unknown,Northern,Rice,,,1347.35,,Mbarara,Direct Sale,Jun
+FARM3481,Denise Carlson,Unknown,Central,Beans,,,2807.19,,Arua,,Jun
+FARM3085,Shannon Cook,53,Western,Maize,,,1406.32,,Arua,Local Market,Feb
+FARM9630,Ian Edwards,Unknown,Western,Groundnuts,,-10,2397.22,,Jinja,Local Market,May
+FARM5414,Keith King,26,Northern,Rice,B,494.35,2965.75,1466118.5125,Kampala,Export,Nov
+FARM6900,Amanda Daniels,Unknown,Central,Maize,C,,643.98,,Arua,Direct Sale,Nov
+FARM4804,Jeremy Jones,Unknown,Western,Beans,B,161.76,2744.6,443966.496,Gulu,Export,Oct
+FARM2225,Wyatt Chandler,Unknown,Central,Matooke,A,,1342.0,,Mbarara,Local Market,Aug
+FARM6059,Holly Ryan,Unknown,Western,Beans,,,915.9,,Arua,Cooperative Society,Apr
+FARM4227,Lori Shaffer,,Eastern,Beans,A,-10,2415.3,,Mbarara,Local Market,Jul
+FARM1906,Sarah Clark,50,Eastern,Beans,C,-10,1711.66,,Mbarara,Cooperative Society,Nov
+FARM6115,Lisa Levine,59,Northern,Cassava,A,-10,2738.96,,Mbale,Direct Sale,Jun
+FARM1505,Rebecca Smith,Unknown,Western,Sorghum,A,-10,1936.94,,Kampala,Cooperative Society,Jan
+FARM1081,Kyle Stout,,Eastern,Groundnuts,A,887.11,1442.58,1279727.1438,Arua,Cooperative Society,Jun
+FARM6092,Jason Watts,,Central,Cassava,A,-10,787.78,,Mbarara,,Oct
+FARM7549,Anthony Cooper,Unknown,Eastern,Groundnuts,B,,585.81,,Gulu,Direct Sale,Apr
+FARM5532,Karen Lee,51,Eastern,Cassava,B,,2427.16,,Gulu,Direct Sale,Feb
+FARM3380,Nicholas Williamson,27,Central,Maize,A,845.22,703.86,594916.5492,Mbarara,Export,Aug
+FARM2062,William Kelley,Unknown,Northern,Sorghum,,,969.01,,Mbarara,Local Market,Jul
+FARM5457,Devin Best,45,Central,Matooke,A,,1566.62,,Gulu,Direct Sale,Dec
+FARM3940,Sabrina Rojas,65,Eastern,Cassava,C,,758.31,,Jinja,Cooperative Society,Mar
+FARM1939,Alexander Campos,,Central,Beans,C,-10,2550.28,,Gulu,Cooperative Society,Nov
+FARM4030,Edward Lewis,Unknown,Central,Groundnuts,A,420.33,2612.0,1097901.96,Kampala,Local Market,Nov
+FARM1181,Lindsey Fischer,,Western,Cassava,A,,2145.0,,Kampala,Export,Nov
+FARM9732,Natalie Hobbs,Unknown,Eastern,Sorghum,,733.0,2849.66,2088800.7799999998,Mbarara,Direct Sale,Oct
+FARM5421,Jose Lewis,Unknown,Eastern,Cassava,B,686.89,2960.8,2033743.912,Mbarara,Direct Sale,Jan
+FARM3167,Alisha Mcdaniel,Unknown,Eastern,Matooke,A,500.09,1531.17,765722.8053,Arua,Export,Feb
+FARM5372,Jerry Beltran,Unknown,Western,Maize,,-10,2371.13,,Mbale,Cooperative Society,Aug
+FARM1957,Anthony Lewis,38,Western,Maize,B,-10,2724.81,,Arua,Export,Mar
+FARM7144,Robert Kelly,Unknown,Western,Maize,,477.92,1965.85,939519.032,Gulu,Export,Jun
+FARM4835,Joseph Gibson,Unknown,Central,Sorghum,,-10,1432.23,,Gulu,Export,Mar
+FARM7371,Christopher Brown,53,Central,Maize,A,-10,1267.53,,Mbale,Export,Jun
+FARM6764,Amanda Johnson,Unknown,Central,Cassava,B,-10,2635.68,,Mbarara,,Dec
+FARM3777,Vincent Barton,,Central,Groundnuts,B,,2329.19,,Mbarara,,Aug
+FARM1347,Martha Phillips,Unknown,Eastern,Maize,A,874.7,2188.41,1914202.227,Mbarara,,Jun
+FARM1390,Alvin Murphy,,Western,Maize,A,523.38,1768.27,925477.1526,Mbale,Direct Sale,Feb
+FARM9391,Anthony Allen,Unknown,Central,Matooke,A,-10,2111.18,,Gulu,,Jan
+FARM6576,Amanda Lawson,,Central,Beans,C,-10,1916.78,,Gulu,,Jul
+FARM3919,Paul Flores,,Central,Matooke,,,598.95,,Arua,,Aug
+FARM7437,Michelle Fowler,,Eastern,Maize,A,403.83,945.08,381651.6564,Gulu,Export,Aug
+FARM4096,Bryce Ayers,Unknown,Eastern,Rice,A,-10,969.89,,Mbale,Export,Sep
+FARM2406,Lisa Gonzalez,,Western,Sorghum,A,-10,2143.64,,Gulu,Cooperative Society,Jul
+FARM8716,Laura Brown,22,Central,Groundnuts,C,124.28,2410.12,299529.7136,Mbarara,Cooperative Society,May
+FARM5245,Jennifer Blackwell,Unknown,Central,Beans,C,462.63,1297.41,600220.7883,Kampala,Direct Sale,Aug
+FARM1873,Andrea May MD,Unknown,Eastern,Rice,,-10,2582.83,,Kampala,Export,Mar
+FARM3902,David Garcia,27,Northern,Matooke,,,1098.51,,Mbarara,Direct Sale,May
+FARM5815,Angelica Kirk,,Eastern,Sorghum,,,2791.55,,Arua,Direct Sale,Nov
+FARM6014,Brittany Walker,,Northern,Cassava,C,-10,667.79,,Jinja,,Oct
+FARM3237,Craig Martinez,,Western,Beans,A,321.66,1261.93,405912.40380000003,Mbarara,Local Market,Nov
+FARM2081,Jean Graham,Unknown,Eastern,Groundnuts,A,692.33,855.91,592572.1703,Gulu,,Apr
+FARM8899,Sean Salazar,Unknown,Northern,Groundnuts,C,-10,2387.08,,Mbarara,,Jan
+FARM9674,Melinda White,49,Eastern,Groundnuts,C,,2106.07,,Gulu,Cooperative Society,Aug
+FARM6403,Carl Gray,55,Northern,Cassava,,212.48,833.74,177153.0752,Mbale,Export,Dec
+FARM6121,Jacob Stephens,Unknown,Western,Matooke,C,-10,1320.78,,Jinja,,May
+FARM6507,Taylor Cole,,Northern,Sorghum,B,,790.39,,Mbarara,,Aug
+FARM6266,Micheal Thompson,Unknown,Northern,Rice,B,,1419.51,,Gulu,Export,Jun
+FARM9600,Jennifer Torres,66,Western,Maize,B,,1546.57,,Jinja,Export,Mar
+FARM2942,Cole Douglas,Unknown,Eastern,Groundnuts,,566.53,2113.55,1197389.4815,Mbale,,Jan
+FARM8071,Nicole Vargas,,Eastern,Beans,B,,969.47,,Mbale,Direct Sale,Feb
+FARM7584,Chloe Brown,38,Central,Groundnuts,,163.12,1999.48,326155.1776,Mbale,Export,May
+FARM1327,Brian Scott,50,Northern,Sorghum,C,,2110.29,,Kampala,Export,Dec
+FARM9823,Candice Johnson,Unknown,Northern,Rice,C,,1716.6,,Arua,Direct Sale,Jun
+FARM6213,Susan Maxwell,Unknown,Northern,Groundnuts,,-10,2908.44,,Jinja,,Jan
+FARM4731,Brianna Roberts,,Northern,Rice,C,,2498.77,,Mbarara,Direct Sale,Feb
+FARM1863,Jessica Richards,Unknown,Northern,Maize,A,,1605.62,,Jinja,Local Market,Apr
+FARM9406,Kevin Cole,,Central,Groundnuts,B,247.24,2108.17,521223.95080000005,Mbale,Direct Sale,Mar
+FARM2194,Courtney Fowler,50,Northern,Matooke,A,,1981.72,,Jinja,Cooperative Society,Mar
+FARM4970,Christine Prince,,Eastern,Matooke,,-10,1354.56,,Jinja,,Dec
+FARM5539,Marc Mathews,,Western,Matooke,C,,920.74,,Kampala,,Jun
+FARM5655,William Nunez,,Northern,Beans,B,-10,2389.34,,Jinja,Cooperative Society,Jul
+FARM7720,Nicole Scott,,Western,Groundnuts,A,-10,1299.74,,Gulu,,Feb
+FARM6690,Megan Mitchell,,Central,Maize,C,-10,1326.28,,Mbarara,Direct Sale,Nov
+FARM1190,Kimberly Heath,35,Eastern,Groundnuts,B,-10,1322.64,,Jinja,Cooperative Society,Feb
+FARM5629,Cory Larsen,Unknown,Eastern,Maize,A,-10,1037.22,,Mbarara,Export,Jun
+FARM6002,Ashley Howard,,Central,Rice,B,,2570.06,,Jinja,,Mar
+FARM4767,Mallory Green,Unknown,Eastern,Sorghum,B,-10,2464.32,,Arua,Cooperative Society,Sep
+FARM6343,Joshua Cooley,,Central,Groundnuts,C,639.28,2737.68,1750144.0703999999,Arua,Local Market,Oct
+FARM5946,Heather Lewis,,Eastern,Maize,,-10,953.72,,Gulu,Export,Dec
+FARM4181,Brandi Gonzalez,,Eastern,Maize,A,497.64,686.9,341828.91599999997,Gulu,Direct Sale,Sep
+FARM9461,George Branch,Unknown,Central,Sorghum,A,408.24,563.21,229924.85040000002,Jinja,Local Market,Feb
+FARM2525,Allison Guerra,Unknown,Northern,Maize,A,,1301.28,,Kampala,Direct Sale,Mar
+FARM2924,Terri Smith,36,Western,Rice,C,,2241.36,,Mbarara,Direct Sale,Jun
+FARM6524,Shannon Farmer,,Central,Beans,C,-10,2266.49,,Mbale,Cooperative Society,Feb
+FARM2148,Mrs. Jessica Johnson,,Northern,Beans,B,-10,2932.79,,Jinja,Local Market,Mar
+FARM1580,Andrea Heath,,Central,Rice,A,570.57,1122.46,640442.0022000001,Mbale,Export,Jul
+FARM2035,Carolyn Ramos,Unknown,Northern,Sorghum,C,192.8,1239.7,239014.16000000003,Mbale,Export,Apr
+FARM6588,Robert Jackson,Unknown,Western,Beans,C,-10,1136.0,,Mbarara,Direct Sale,Feb
+FARM3944,Maria Horne,,Northern,Matooke,,-10,1385.67,,Mbale,Direct Sale,Jul
+FARM2841,Michelle Walters,Unknown,Western,Cassava,B,,1362.18,,Gulu,,May
+FARM6840,Vickie Grimes,24,Northern,Rice,B,-10,1909.98,,Mbale,Export,Oct
+FARM3988,Veronica Stein,Unknown,Northern,Beans,B,962.83,533.78,513939.3974,Kampala,Local Market,Apr
+FARM3740,Cindy Castillo,39,Eastern,Rice,B,,2517.43,,Gulu,Cooperative Society,Dec
+FARM3560,Nicole Brown,69,Western,Maize,,-10,2851.94,,Mbarara,Export,Jan
+FARM4621,Lucas Buck,36,Northern,Matooke,A,-10,1567.36,,Gulu,Cooperative Society,Nov
+FARM7782,Karen Smith,28,Northern,Cassava,B,-10,1625.72,,Kampala,Cooperative Society,Oct
+FARM7707,Mitchell Lewis,,Western,Matooke,,-10,724.94,,Mbale,Cooperative Society,Jul
+FARM2114,Jesse Robbins,54,Western,Matooke,,,743.94,,Kampala,,Jul
+FARM7524,Leslie Dennis,67,Central,Groundnuts,C,,2670.19,,Mbale,Cooperative Society,Jun
+FARM6352,Sally Johnson,63,Northern,Groundnuts,A,532.95,1641.32,874741.4940000001,Arua,Cooperative Society,Jan
+FARM8311,Jerry Curtis,Unknown,Western,Rice,C,156.79,2688.02,421454.65579999995,Arua,Cooperative Society,Nov
+FARM9360,Kim Williams,25,Central,Rice,B,,781.86,,Gulu,Cooperative Society,Jun
+FARM9170,Kayla Meza,65,Central,Matooke,,278.79,1011.13,281892.9327,Arua,Cooperative Society,May
+FARM2851,Heidi Brown,51,Western,Beans,C,,1452.15,,Mbale,Cooperative Society,Jun
+FARM9865,Dr. Paul Rosario,70,Central,Groundnuts,,,2018.79,,Jinja,Direct Sale,May
+FARM4646,Logan Hughes,Unknown,Northern,Matooke,C,,1015.73,,Gulu,Direct Sale,Nov
+FARM6771,Brandon Taylor,,Western,Cassava,B,-10,2562.93,,Jinja,Export,Jun
+FARM8369,Terrence Hansen,Unknown,Northern,Groundnuts,C,-10,2257.15,,Arua,Local Market,Oct
+FARM7858,Adam Smith,Unknown,Northern,Groundnuts,A,-10,895.29,,Arua,Direct Sale,Nov
+FARM3063,Andrea Powers,,Eastern,Matooke,,303.71,619.31,188090.64009999996,Arua,Cooperative Society,Apr
+FARM1055,Patrick Thomas,47,Northern,Groundnuts,C,,872.87,,Kampala,Cooperative Society,May
+FARM4586,Catherine Weber,Unknown,Western,Rice,B,496.09,2083.58,1033643.2021999999,Mbarara,Cooperative Society,Jul
+FARM7495,Mary Marshall,70,Northern,Maize,A,815.08,2425.02,1976585.3016000001,Kampala,,Jun
+FARM3481,Joshua Roberson,Unknown,Western,Cassava,A,206.02,2388.91,492163.2382,Arua,Direct Sale,Feb
+FARM2864,Jennifer Hodges,Unknown,Eastern,Rice,B,-10,696.32,,Mbale,Direct Sale,Oct
+FARM7083,Richard Burns,,Central,Matooke,,801.25,1312.89,1051953.1125,Gulu,Direct Sale,Jun
+FARM9009,David Perez,28,Eastern,Sorghum,B,391.67,1860.89,728854.7863,Arua,Local Market,Mar
+FARM8207,Keith Gamble,,Central,Maize,B,-10,1192.16,,Mbale,Cooperative Society,May
+FARM7724,Jerry Wells,Unknown,Central,Rice,A,935.02,1832.53,1713452.2005999999,Mbarara,Direct Sale,Apr
+FARM8516,Darren Novak MD,32,Eastern,Rice,C,478.92,542.99,260048.77080000003,Arua,,Feb
+FARM8002,Kenneth Lawrence,50,Eastern,Cassava,B,,1426.34,,Kampala,Local Market,Aug
+FARM3971,William Duncan,Unknown,Western,Rice,B,368.44,859.08,316519.4352,Mbarara,Export,Jul
+FARM4943,Tabitha Reynolds,46,Central,Sorghum,C,,2148.22,,Gulu,Local Market,Aug
+FARM7275,Jessica Edwards,66,Central,Sorghum,A,-10,586.43,,Jinja,,Aug
+FARM5026,Sarah Brown,27,Eastern,Matooke,A,,2105.82,,Mbarara,Export,May
+FARM5731,Natalie Simpson,,Northern,Matooke,,,2160.08,,Kampala,Export,Jan
+FARM1669,Rachel Tucker,65,Eastern,Maize,B,583.29,2593.64,1512844.2755999998,Mbarara,Cooperative Society,Sep
+FARM3100,Matthew Cruz,Unknown,Eastern,Cassava,C,940.87,2859.91,2690803.5217,Mbarara,Direct Sale,May
+FARM8545,Donna Warren,,Eastern,Sorghum,B,-10,2282.36,,Mbarara,Cooperative Society,Sep
+FARM1832,Natasha Coleman,,Central,Matooke,C,130.45,813.24,106087.158,Gulu,Export,Oct
+FARM6208,Jesus French,49,Central,Sorghum,C,,1412.85,,Mbale,,May
+FARM2426,Jay Walton,Unknown,Central,Maize,B,858.68,2105.35,1807821.9379999998,Mbarara,Cooperative Society,Feb
+FARM5500,William Bond,Unknown,Central,Maize,A,,2427.59,,Arua,Cooperative Society,Feb
+FARM9645,Kevin Lindsey,,Northern,Groundnuts,B,,1024.79,,Arua,Local Market,Dec
+FARM5503,William Norris,Unknown,Eastern,Maize,C,,2945.07,,Kampala,,Jan
+FARM1250,Barbara Nelson,Unknown,Eastern,Rice,C,,1725.79,,Kampala,Local Market,Apr
+FARM7704,Rickey Allen,,Northern,Matooke,B,727.67,639.96,465679.6932,Kampala,,Apr
+FARM7435,Dorothy Salas,55,Northern,Groundnuts,B,-10,830.01,,Jinja,Cooperative Society,Aug
+FARM8019,Erika Keller,,Central,Beans,B,311.57,2056.33,640690.7381,Gulu,Direct Sale,Feb
+FARM2018,Ashley Williams DDS,Unknown,Central,Beans,C,-10,1227.26,,Jinja,,Sep
+FARM7751,Travis Robinson,Unknown,Central,Groundnuts,C,860.1,952.93,819615.093,Mbale,Local Market,Jun
+FARM6565,Jeffrey Martinez,Unknown,Eastern,Beans,A,,2791.86,,Mbarara,Export,Apr
+FARM2555,Jennifer Johnson,Unknown,Central,Beans,A,,1125.81,,Arua,Export,Apr
+FARM3054,Timothy Noble,Unknown,Eastern,Rice,B,-10,2574.35,,Arua,Export,Apr
+FARM6687,Todd Herman,35,Northern,Cassava,A,864.76,2091.03,1808239.1028000002,Kampala,Cooperative Society,Nov
+FARM3470,Lisa Salazar,,Western,Groundnuts,A,,2262.04,,Jinja,Direct Sale,Apr
+FARM4764,Zachary Mejia,Unknown,Northern,Groundnuts,B,-10,1328.22,,Mbarara,Local Market,Oct
+FARM2137,Robert Watts DVM,Unknown,Northern,Beans,C,,1550.77,,Mbale,Direct Sale,May
+FARM5134,Rebecca Berry,,Northern,Groundnuts,A,-10,1163.74,,Arua,Direct Sale,Aug
+FARM9910,Guy Rodriguez,Unknown,Eastern,Matooke,B,-10,2930.45,,Jinja,Local Market,May
+FARM5197,Emily Martinez,19,Northern,Groundnuts,C,157.22,2286.14,359426.9308,Mbale,Cooperative Society,Jul
+FARM2171,Tiffany Chan,60,Western,Beans,C,-10,1028.44,,Mbale,Local Market,Jun
+FARM2983,Dalton Rangel,64,Western,Matooke,C,709.75,1767.8,1254696.05,Gulu,Local Market,Mar
+FARM8261,Gregory Russell,Unknown,Northern,Beans,B,-10,759.13,,Mbale,Export,Aug
+FARM2560,Jacqueline French,Unknown,Northern,Groundnuts,,,1981.28,,Mbarara,Cooperative Society,Feb
+FARM4895,Misty Haynes,54,Western,Groundnuts,C,-10,2704.45,,Kampala,Direct Sale,May
+FARM4660,Scott Miller,,Northern,Rice,B,-10,790.58,,Mbarara,,May
+FARM8852,Sean Ortiz,45,Eastern,Sorghum,C,-10,2621.61,,Jinja,Cooperative Society,Oct
+FARM4633,Mr. John Byrd,Unknown,Central,Beans,A,202.28,1779.23,359902.6444,Kampala,Cooperative Society,Aug
+FARM3288,Cathy Newton,Unknown,Western,Matooke,A,988.47,589.02,582228.5994,Gulu,Export,Mar
+FARM1763,Scott Hall,,Central,Rice,,309.22,2752.68,851183.7096000001,Kampala,Direct Sale,Apr
+FARM1460,Bryan Mcdaniel,Unknown,Eastern,Groundnuts,C,,872.95,,Mbarara,Export,Dec
+FARM9020,Peter Marsh,Unknown,Northern,Sorghum,,-10,2924.1,,Mbale,Local Market,Nov
+FARM3473,Shane Armstrong,,Central,Matooke,B,,2988.51,,Jinja,Direct Sale,Feb
+FARM5187,Paul Campbell,,Central,Cassava,C,157.1,885.56,139121.476,Mbale,Local Market,Jun
+FARM7952,Tina Harris,47,Northern,Beans,,685.33,2748.21,1883430.7593,Gulu,Direct Sale,Mar
+FARM5399,Lisa Brown,43,Northern,Beans,C,-10,749.02,,Gulu,Local Market,Nov
+FARM5881,Stephanie Donaldson,Unknown,Western,Maize,C,,2394.09,,Mbarara,,Dec
+FARM8363,Kevin Fletcher,42,Northern,Groundnuts,B,557.56,1313.08,732120.8847999999,Arua,Cooperative Society,Sep
+FARM1163,Andrea Webb,,Northern,Beans,,611.57,2425.51,1483369.1507000003,Gulu,Local Market,Nov
+FARM9810,Cynthia Smith,40,Eastern,Groundnuts,B,-10,2071.12,,Arua,Cooperative Society,Oct
+FARM9401,Jessica Pena,42,Northern,Sorghum,B,-10,1211.44,,Mbarara,Direct Sale,Nov
+FARM9529,Anna Walton DDS,23,Northern,Sorghum,B,590.49,774.7,457452.60300000006,Mbarara,,Apr
+FARM2960,Kirk Scott,Unknown,Eastern,Beans,B,,2544.29,,Mbale,,Jan
+FARM6969,Melissa Bond,,Northern,Sorghum,,-10,2038.65,,Mbarara,Local Market,Nov
+FARM3062,Julia Jones,Unknown,Central,Matooke,C,,1786.03,,Arua,Export,Jul
+FARM4888,Nathan Myers,42,Northern,Maize,B,,2009.38,,Mbale,Local Market,Feb
+FARM5995,Monica Hill,Unknown,Central,Maize,B,-10,1246.68,,Gulu,,Jun
+FARM5799,Mrs. Bonnie Ford DVM,Unknown,Eastern,Matooke,,,2336.43,,Mbale,,Jan
+FARM2449,Harold Rodgers,Unknown,Central,Cassava,C,,967.63,,Jinja,,Jul
+FARM7646,Sandra Acosta,48,Western,Maize,A,,1560.07,,Arua,Local Market,Jul
+FARM7368,Jean Espinoza,Unknown,Eastern,Matooke,C,114.73,2738.7,314211.051,Mbarara,,Aug
+FARM1770,Nicholas Jones,24,Northern,Maize,B,-10,1453.92,,Mbale,Export,Oct
+FARM1017,Aaron Terry,53,Northern,Cassava,,-10,2159.86,,Kampala,,Jul
+FARM2071,Barbara Butler,25,Western,Maize,A,-10,2299.4,,Gulu,Cooperative Society,Mar
+FARM2190,Lydia Jenkins,Unknown,Northern,Beans,,,1124.13,,Kampala,Local Market,Dec
+FARM1135,Eileen Larson,43,Western,Sorghum,B,,2266.75,,Jinja,Export,Mar
+FARM2065,Sharon Walker,,Central,Maize,C,,2713.3,,Kampala,,Nov
+FARM1883,Joshua Gonzalez,Unknown,Central,Groundnuts,,,1949.49,,Gulu,Cooperative Society,Dec
+FARM2366,Kyle Mcneil,,Western,Cassava,A,-10,925.74,,Kampala,Cooperative Society,Dec
+FARM6511,Susan Orozco,,Western,Sorghum,C,-10,1188.34,,Mbarara,,Jul
+FARM5421,Jennifer Orozco,48,Eastern,Rice,,625.9,1586.66,993090.4940000001,Kampala,Direct Sale,Jan
+FARM6239,Erica Harrell,Unknown,Western,Matooke,A,531.06,1835.51,974765.9405999999,Mbale,Direct Sale,Oct
+FARM6490,Stanley Maxwell,,Central,Maize,A,,1091.23,,Mbale,Direct Sale,Jul
+FARM5883,Jonathan Hardy,38,Central,Beans,B,,1420.99,,Arua,Local Market,Nov
+FARM5751,Daniel Hughes,,Eastern,Beans,,,2181.05,,Kampala,Local Market,Oct
+FARM8413,Luke King,,Western,Maize,B,,2129.7,,Jinja,Local Market,Feb
+FARM1861,Penny Carter,Unknown,Eastern,Beans,B,505.9,1692.92,856448.228,Kampala,,Aug
+FARM7251,Brittany Mayer,22,Western,Rice,C,,1276.83,,Arua,Direct Sale,Jan
+FARM1476,Regina Daniel,24,Western,Groundnuts,A,-10,622.38,,Gulu,Local Market,Dec
+FARM1272,David Stone,45,Eastern,Rice,A,283.3,1156.79,327718.607,Mbarara,Export,Jan
+FARM5454,Jennifer Kennedy,,Central,Beans,B,,1863.23,,Mbale,Cooperative Society,Sep
+FARM8940,Adrian Watson,Unknown,Eastern,Cassava,B,,2325.72,,Arua,Cooperative Society,Nov
+FARM3135,Frank Moore,Unknown,Western,Groundnuts,C,682.89,2514.15,1716887.8935,Mbale,Direct Sale,Jan
+FARM7458,Kimberly Cardenas,,Central,Rice,B,,2502.8,,Mbale,Export,Jun
+FARM3371,Paul Bradford,Unknown,Northern,Maize,B,-10,1103.14,,Mbarara,Export,Apr
+FARM5347,Kathryn Walton,Unknown,Northern,Cassava,C,531.99,1084.9,577155.951,Kampala,Direct Sale,Feb
+FARM9865,Vanessa Simmons,Unknown,Western,Groundnuts,B,-10,823.97,,Arua,Local Market,Aug
+FARM6427,Courtney Dawson,59,Eastern,Sorghum,B,,765.17,,Mbarara,Local Market,Oct
+FARM2337,Rick Nelson,61,Western,Maize,B,-10,2583.78,,Gulu,,Oct
+FARM5638,Amber Phillips,66,Eastern,Cassava,A,431.83,2477.25,1069750.8675,Kampala,Direct Sale,May
+FARM4177,Deborah King,,Western,Beans,,982.45,2388.21,2346296.9145,Mbarara,Local Market,Nov
+FARM3615,Alex Stephens,61,Western,Beans,B,,1048.26,,Mbale,Export,Feb
+FARM8377,John Myers,,Eastern,Maize,C,360.9,2904.07,1048078.863,Gulu,Export,Nov
+FARM1680,Carrie Davis,,Central,Rice,C,-10,1755.93,,Mbarara,Cooperative Society,Apr
+FARM9536,William Wright,Unknown,Central,Cassava,B,-10,2805.65,,Jinja,Cooperative Society,Mar
+FARM5335,Tommy Gallagher,42,Central,Beans,B,-10,1647.89,,Mbale,Local Market,Apr
+FARM1552,Victoria Chavez,,Central,Sorghum,C,623.0,897.89,559385.47,Mbale,Cooperative Society,Jul
+FARM1603,Jay Patel,Unknown,Western,Rice,C,951.76,1054.51,1003640.4376,Mbale,Local Market,Mar
+FARM8488,Amanda Galvan,,Western,Matooke,B,-10,2626.25,,Mbale,Local Market,Jun
+FARM1282,Brett Weeks,Unknown,Central,Beans,,-10,1052.34,,Jinja,Export,Nov
+FARM5637,Anthony Ward,,Eastern,Sorghum,,-10,822.64,,Mbale,Cooperative Society,Mar
+FARM7527,Kenneth Carroll,Unknown,Eastern,Rice,,387.23,735.39,284765.0697,Gulu,,Aug
+FARM8577,Erica Jensen,,Central,Groundnuts,A,890.28,2691.84,2396491.3152,Arua,,Mar
+FARM5541,Kelly Mitchell,23,Central,Cassava,B,671.39,1589.12,1066919.2767999999,Jinja,Cooperative Society,Nov
+FARM2525,Kyle Larsen,Unknown,Northern,Maize,C,576.77,1940.35,1119135.6694999998,Kampala,Export,Apr
+FARM9645,Richard Patton,Unknown,Western,Groundnuts,A,716.46,2680.37,1920377.8902,Jinja,Direct Sale,Feb
+FARM4364,Jennifer Mccarthy,Unknown,Eastern,Groundnuts,A,,2434.27,,Mbarara,,Sep
+FARM2035,Sally Shea,,Central,Sorghum,,607.78,1249.72,759554.8216,Jinja,Local Market,Jul
+FARM1377,Mackenzie Garza,62,Western,Maize,,731.45,853.25,624109.7125,Mbale,,Mar
+FARM5639,Tony Monroe,41,Northern,Beans,,,1887.31,,Kampala,,Jan
+FARM3010,Susan Martin,Unknown,Eastern,Beans,,868.97,827.02,718655.5694,Jinja,,Feb
+FARM2478,Paul Carpenter,Unknown,Central,Matooke,C,,1746.72,,Arua,Cooperative Society,Jul
+FARM5247,Paul Martin DDS,,Western,Rice,,,810.92,,Mbale,,Oct
+FARM6932,Kimberly Mills,,Western,Sorghum,B,187.68,1223.14,229558.91520000002,Kampala,Local Market,May
+FARM6865,Charles Moore,,Eastern,Maize,C,-10,2538.18,,Mbale,Direct Sale,Apr
+FARM1011,Robert Lewis,Unknown,Eastern,Matooke,A,321.35,2498.62,802931.537,Kampala,Local Market,Jun
+FARM6600,Rebecca Brown,,Western,Beans,B,-10,534.65,,Arua,Cooperative Society,Apr
+FARM6253,Arthur Trevino,37,Northern,Cassava,A,,2800.21,,Jinja,,Dec
+FARM1306,David Williams,31,Central,Cassava,B,-10,1771.0,,Mbale,Export,Jun
+FARM1377,Kimberly Carter,65,Central,Matooke,A,353.2,2505.77,885037.9639999999,Arua,Local Market,Oct
+FARM7885,Amanda Allen,54,Northern,Cassava,,,1662.88,,Mbale,Local Market,Oct
+FARM3765,Anthony Powell,,Western,Groundnuts,A,-10,1110.29,,Gulu,Local Market,Jan
+FARM7698,William Brown,,Eastern,Maize,C,,1175.4,,Jinja,Local Market,Feb
+FARM7451,Jamie Jones,,Eastern,Groundnuts,B,747.15,1550.33,1158329.0595,Gulu,Local Market,Apr
+FARM8554,Courtney Smith,Unknown,Central,Cassava,A,,1055.38,,Arua,Export,Aug
+FARM3938,Leonard Reynolds,49,Western,Matooke,B,637.82,1313.15,837553.3330000001,Arua,Direct Sale,Feb
+FARM2608,Melissa Navarro,,Eastern,Maize,C,,2469.87,,Mbarara,Export,Jan
+FARM1906,Kenneth Nelson,Unknown,Eastern,Matooke,,,1621.9,,Arua,Local Market,Feb
+FARM6224,Jessica Wilkins,,Northern,Groundnuts,B,-10,2377.41,,Arua,,May
+FARM6242,Manuel Wilson,Unknown,Eastern,Groundnuts,B,584.37,1781.58,1041101.9046,Gulu,Cooperative Society,Jul
+FARM6023,Steven Nunez,Unknown,Eastern,Groundnuts,C,629.41,915.92,576489.2072,Mbale,Cooperative Society,Jul
+FARM5561,Ernest Chavez,,Eastern,Groundnuts,A,,1183.93,,Gulu,Local Market,Jul
+FARM8651,Chad Robertson,,Northern,Groundnuts,,-10,1720.95,,Arua,Cooperative Society,Jul
+FARM3004,Pamela Walker,Unknown,Eastern,Beans,B,,751.35,,Mbale,Local Market,May
+FARM6650,Mary Reyes,,Eastern,Matooke,,,2278.45,,Kampala,Local Market,May
+FARM3960,Timothy Hayes,40,Northern,Maize,,-10,1242.64,,Mbale,Export,Feb
+FARM5054,Jennifer Willis,45,Central,Cassava,,-10,2618.79,,Mbarara,Local Market,Sep
+FARM9201,Jennifer Ellis,,Central,Matooke,A,,2532.57,,Jinja,Local Market,Dec
+FARM4859,Sarah Krueger,,Eastern,Maize,A,682.57,1638.27,1118233.9539,Arua,Cooperative Society,Jun
+FARM9242,Sarah House,,Eastern,Sorghum,A,,1837.19,,Gulu,,Jan
+FARM4198,Richard Watson,65,Central,Rice,A,396.31,1316.5,521742.115,Mbale,Cooperative Society,Oct
+FARM5060,Tyler Carr,59,Northern,Beans,C,-10,1346.07,,Jinja,Direct Sale,Oct
+FARM2431,Jimmy Green,Unknown,Central,Rice,B,,2200.23,,Kampala,Direct Sale,Jan
+FARM2488,Phillip Bates,,Western,Cassava,C,-10,1196.04,,Kampala,Direct Sale,Jul
+FARM1324,Matthew Carpenter,,Northern,Rice,A,,2533.41,,Gulu,,May
+FARM8719,Darrell Gilbert,25,Northern,Cassava,C,-10,2779.5,,Jinja,Direct Sale,Jul
+FARM3448,Jodi James,42,Western,Rice,C,187.53,1612.15,302326.4895,Jinja,Export,Aug
+FARM9804,Robert Poole,,Western,Rice,C,-10,1761.92,,Mbale,,Sep
+FARM4241,Anne Myers,,Eastern,Sorghum,C,,2509.8,,Mbale,Export,Apr
+FARM7644,Jerry Jackson,Unknown,Central,Sorghum,,,1314.41,,Mbale,,Oct
+FARM9545,Felicia Mcdonald,,Northern,Rice,A,,733.42,,Jinja,Export,May
+FARM4399,Thomas Mcclain,Unknown,Western,Rice,,-10,2644.84,,Mbarara,,Jan
+FARM1580,Carl Thomas,,Eastern,Groundnuts,A,-10,2061.92,,Mbale,Direct Sale,Jun
+FARM8510,Connie Foster,50,Eastern,Matooke,B,,2451.24,,Gulu,Export,Mar
+FARM3279,Ashley Duffy,44,Western,Matooke,C,940.5,2611.91,2456501.355,Arua,Local Market,Sep
+FARM3986,Annette Nelson,44,Northern,Matooke,A,,1960.33,,Gulu,,Feb
+FARM1042,Ann Stewart,31,Central,Rice,C,-10,2723.26,,Gulu,,Jun
+FARM1983,Mr. Tristan Ramirez,Unknown,Central,Sorghum,B,319.97,1106.69,354107.59930000006,Mbale,Direct Sale,Jul
+FARM9355,Megan Jimenez,Unknown,Western,Groundnuts,B,119.7,1139.06,136345.482,Mbarara,Export,Aug
+FARM9618,Maria Horton,Unknown,Eastern,Cassava,A,,2853.16,,Arua,,Feb
+FARM4619,Marilyn Copeland,33,Northern,Maize,B,-10,665.86,,Mbarara,Export,Oct
+FARM4579,Jessica Johnson,Unknown,Eastern,Groundnuts,B,,702.33,,Jinja,Direct Sale,Nov
+FARM7336,Andrea Garza,29,Western,Rice,A,745.84,1061.44,791664.4096000001,Gulu,Local Market,Jun
+FARM5111,Valerie Griffin,42,Northern,Cassava,A,,2085.42,,Kampala,Cooperative Society,Apr
+FARM4676,Robert Ibarra,,Western,Sorghum,B,369.27,2392.13,883341.8451,Mbale,Cooperative Society,Aug
+FARM4210,Shannon Diaz,Unknown,Northern,Maize,A,,2013.36,,Arua,Cooperative Society,Jul
+FARM1838,Michael Smith,,Northern,Sorghum,,-10,959.3,,Kampala,Cooperative Society,Jun
+FARM2347,Megan Navarro,,Western,Rice,A,875.86,1481.2,1297323.8320000002,Mbale,,Jan
+FARM6435,Timothy Gordon,39,Central,Matooke,A,-10,1220.82,,Mbarara,Export,Jan
+FARM1830,Pamela Ryan,Unknown,Western,Cassava,,687.04,858.1,589549.024,Mbarara,Cooperative Society,Aug
+FARM4552,Brett Jacobs,Unknown,Eastern,Groundnuts,,,840.02,,Jinja,Cooperative Society,Dec
+FARM9120,Aaron Gates,26,Central,Beans,A,-10,1398.32,,Kampala,Export,Oct
+FARM2646,Marco Garcia,33,Northern,Beans,A,,572.67,,Kampala,Local Market,May
+FARM1289,Christopher Bailey,,Northern,Beans,C,801.79,1967.33,1577385.5206999998,Gulu,Direct Sale,Dec
+FARM6034,Erin Alexander,,Eastern,Groundnuts,C,706.01,2782.57,1964522.2457,Mbale,Direct Sale,Jan
+FARM8311,Christina Scott,39,Eastern,Cassava,,,1005.13,,Mbale,Direct Sale,Apr
+FARM8420,Theresa Hanson,Unknown,Western,Groundnuts,C,687.05,1480.07,1016882.0934999998,Arua,Direct Sale,Dec
+FARM4922,Tammy Church,Unknown,Western,Maize,B,-10,2799.85,,Kampala,Direct Sale,Sep
+FARM2178,Amanda Wilson,Unknown,Northern,Cassava,B,-10,2270.39,,Gulu,Cooperative Society,Oct
+FARM3616,Kimberly Dunn,33,Central,Matooke,A,-10,2360.88,,Kampala,Direct Sale,Jul
+FARM5760,Jennifer Sanchez,31,Western,Beans,C,-10,1274.85,,Kampala,,Jun
+FARM7823,Sean Newman,Unknown,Central,Matooke,A,,675.25,,Jinja,Cooperative Society,May
+FARM7039,Wanda Ray,Unknown,Central,Sorghum,A,,1724.04,,Kampala,Direct Sale,Sep
+FARM2369,Victor Barrett,Unknown,Northern,Maize,A,281.2,2458.3,691273.9600000001,Jinja,Local Market,Feb
+FARM8568,David Weber,36,Eastern,Beans,C,625.29,945.83,591418.0407,Jinja,,Sep
+FARM2695,Eric Garcia,56,Central,Sorghum,C,154.26,2332.63,359831.5038,Arua,Local Market,Jan
+FARM1679,Dana Parrish,Unknown,Northern,Beans,A,321.9,512.23,164886.837,Mbale,Local Market,Jun
+FARM7270,Traci Benson,Unknown,Northern,Matooke,,-10,1380.6,,Arua,Local Market,Nov
+FARM7558,Sabrina Collins,Unknown,Eastern,Sorghum,,,567.29,,Mbarara,,Jan
+FARM9729,Jennifer Morse,27,Central,Sorghum,A,,571.02,,Arua,Direct Sale,Mar
+FARM1837,Mitchell Garcia,,Northern,Rice,A,-10,1829.23,,Kampala,Direct Sale,Jan
+FARM5185,Kevin Woods,Unknown,Eastern,Sorghum,,-10,2188.37,,Mbale,Export,Aug
+FARM3351,Adam Andrews,,Eastern,Maize,A,992.63,1524.63,1513393.4769000001,Mbale,Local Market,Nov
+FARM2321,Mary Logan,Unknown,Western,Sorghum,A,327.35,1688.99,552890.8765,Arua,Export,Feb
+FARM8944,Stephanie Orr,Unknown,Northern,Maize,A,111.22,2895.71,322060.8662,Kampala,Cooperative Society,May
+FARM3348,Kristen Silva,,Eastern,Cassava,B,-10,2149.9,,Mbale,Direct Sale,May
+FARM1736,Michael Stewart,,Northern,Groundnuts,,968.67,1296.39,1255774.1013,Mbarara,Export,Sep
